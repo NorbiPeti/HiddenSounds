@@ -78,7 +78,7 @@ namespace HiddenUpdater
             }
 
             //Console.WriteLine(artistJson.ToString(Formatting.None));
-            File.WriteAllText("songs.json", playlistJson.ToString(Formatting.None));
+            File.WriteAllText("songs.json", playlistJson.ToString());
         }
     }
 }
