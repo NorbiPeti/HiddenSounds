@@ -1,5 +1,8 @@
 body {
     background-color: #003239;
+}
+
+* {
     color: aqua;
 }
 
@@ -21,9 +24,10 @@ body {
 
 
 #popularSongs, #hiddenSongs {
-    width: 40%;
+    width: 38%;
     margin: 4%;
     border: 1px #78ffee solid;
+    padding: 20px;
 }
 
 #popularSongs h2, #hiddenSongs h2 {
@@ -41,4 +45,8 @@ body {
 
 h1 {
     text-align: center;
+}
+
+.content {
+    /*background-color: #1f2523;*/
 }

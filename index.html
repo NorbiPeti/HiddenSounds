@@ -3,31 +3,19 @@ layout: default
 title: Hidden Sounds
 ---
 <h1>Hidden Sounds Unofficial (Fan) Website</h1>
-<div id="popularSongs">
+<div id="popularSongs" class="content">
     <h2>Popular Songs</h2>
     <div id="popularContainer">
         {% for song in site.data.songs %}
-        <div class="song">
-            <p>
-                {% assign artist = site.artists | where: 'name', song.artist | first %}
-                {% if artist %}
-                <a href="{{ artist.url | prepend: site.baseurl }}">{{ artist.name }}</a>
-                {% else %}
-                {{ song.artist }}
-                {% endif %}
-                - <a href="https://spotify.com/">{{ song.title }}</a>
-            </p>
-        </div>
+        {% include songlist.html %}
         {% endfor %}
     </div>
 </div>
-<div id="hiddenSongs">
+<div id="hiddenSongs" class="content">
     <h2>Hidden Songs</h2>
     <div id="hiddenContainer">
         {% for song in site.data.songs %}
-        <div class="song">
-            <p><a href="https://spotify.com/">Artist - Title</a></p>
-        </div>
+        {% include songlist.html %}
         {% endfor %}
     </div>
 </div>
