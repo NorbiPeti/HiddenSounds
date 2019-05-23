@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using SpotifyAPI.Web;
 using SpotifyAPI.Web.Auth;
@@ -26,18 +28,57 @@ namespace HiddenUpdater
             var tracks = playlist.Tracks;
             Console.WriteLine("Total: " + tracks.Total);
             int C = 0;
-            for (int i = 0; i < tracks.Total; i+=100)
+            var artistJson = new JObject();
+            for (int i = 0; i < tracks.Total; i += 100)
             {
                 if (i > 0)
                     tracks = spotify.GetPlaylistTracks(PlaylistId, offset: i);
-                foreach (var track in tracks.Items)
+                foreach (var track in tracks.Items.Select(tr => tr.Track))
                 {
-                    Console.WriteLine("Track: "+track.Track.Name);
+                    var obj = new JObject();
+                    obj["name"] = track.Name;
+                    /*obj["artists"] = new JArray(track.Artists.Select(artist => new JObject
+                    {
+                        {"name", artist.Name},
+                        {"url", artist.ExternalUrls["spotify"]}
+                    }));*/
+                    var artJson = new JArray();
+                    foreach (var artist in track.Artists)
+                    {
+                        if (!artistJson.ContainsKey(artist.Name))
+                            artistJson[artist.Name] = new JObject
+                            {
+                                {"name", artist.Name},
+                                {"url", artist.ExternalUrls["spotify"]},
+                                {"id", artist.Id}
+                            };
+                        artJson.Add(artist.Name);
+                    }
+
+                    obj["artists"] = artJson;
+                    obj["popularity"] = track.Popularity;
+                    obj["durationMs"] = track.DurationMs;
+                    obj["url"] = track.ExternUrls["spotify"];
+
+                    playlistJson.Add(obj);
                     C++;
                 }
             }
 
             Console.WriteLine(C + " / " + tracks.Total);
+
+            Console.WriteLine("Getting artists...");
+            foreach (var kv in artistJson)
+            {
+                var artist = spotify.GetArtist((string) kv.Value["id"]);
+                var artJson = kv.Value;
+                artJson["followers"] = artist?.Followers?.Total;
+                artJson["popularity"] = artist?.Popularity;
+                artJson["genres"] = new JArray(artist?.Genres);
+            }
+
+            //Console.WriteLine(artistJson.ToString(Formatting.None));
+            File.WriteAllText("songs.json", playlistJson.ToString(Formatting.None));
         }
     }
 }
