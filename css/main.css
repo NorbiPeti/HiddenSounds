@@ -1,0 +1,19 @@
+body {
+    background-color: #003239;
+}
+
+.bg-image {
+    /*background-image: url("../HS.png");*/
+    background-image: url("../bg.png"), linear-gradient(to bottom, black, black, #3a3a3a, #009a9a,
+    #727272);
+    background-size: cover;
+    filter: blur(8px);
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+}
