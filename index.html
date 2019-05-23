@@ -11,7 +11,7 @@ title: Hidden Sounds
             <p>
                 {% assign artist = site.artists | where: 'name', song.artist | first %}
                 {% if artist %}
-                <a href="{{ artist.url }}">{{ artist.name }}</a>
+                <a href="{{ artist.url | prepend: site.baseurl }}">{{ artist.name }}</a>
                 {% else %}
                 {{ song.artist }}
                 {% endif %}
