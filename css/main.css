@@ -1,13 +1,14 @@
 body {
     background-color: #003239;
+    color: aqua;
 }
 
 .bg-image {
     /*background-image: url("../HS.png");*/
-    background-image: url("../bg.png"), linear-gradient(to bottom, black, black, #3a3a3a, #009a9a,
-    #727272);
+    background-image: url("../bg.png"), linear-gradient(to bottom, #1d1d1d, #1d1d1d, #243537, #009a9a);
+    /*#727272);*/
     background-size: cover;
-    filter: blur(8px);
+    filter: blur(16px);
     height: 100%;
     position: absolute;
     top: 0;
@@ -16,4 +17,28 @@ body {
     z-index: -1;
     margin: 0;
     padding: 0;
+}
+
+
+#popularSongs, #hiddenSongs {
+    width: 40%;
+    margin: 4%;
+    border: 1px #78ffee solid;
+}
+
+#popularSongs h2, #hiddenSongs h2 {
+    text-align: center;
+    color: aqua;
+}
+
+#popularSongs {
+    float: left;
+}
+
+#hiddenSongs {
+    float: right;
+}
+
+h1 {
+    text-align: center;
 }

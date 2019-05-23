@@ -1,0 +1,12 @@
+[
+  {
+    "artist": "Artist1",
+    "title": "Title1",
+    "url": "https://spotify.com/"
+  },
+  {
+    "artist": "Artist2",
+    "title": "Title2",
+    "url": "https://spotify.com/"
+  }
+]

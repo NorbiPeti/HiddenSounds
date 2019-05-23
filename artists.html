@@ -1,0 +1,14 @@
+---
+title: Artists
+---
+<h1>Artists</h1>
+
+<ul>
+    {% for artist in site.artists %}
+    <li>
+        <h2>{{ artist.name }}</h2>
+        <h3>{{ artist.position }}</h3>
+        <p>{{ artist.content | markdownify }}</p>
+    </li>
+    {% endfor %}
+</ul>
