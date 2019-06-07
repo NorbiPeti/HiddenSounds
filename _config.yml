@@ -14,3 +14,10 @@ defaults:
       layout: "default"
 
 baseurl: /HiddenSounds
+page_gen:
+  - data: songs
+    template: song
+    name: sname
+  - data: artists
+    template: song
+    name: sid
