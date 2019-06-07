@@ -36,7 +36,7 @@ namespace HiddenUpdater
                 foreach (var track in tracks.Items.Select(tr => tr.Track))
                 {
                     var obj = new JObject();
-                    obj["name"] = track.Name;
+                    obj["sname"] = track.Name;
                     /*obj["artists"] = new JArray(track.Artists.Select(artist => new JObject
                     {
                         {"name", artist.Name},
@@ -48,9 +48,9 @@ namespace HiddenUpdater
                         if (!artistJson.ContainsKey(artist.Name))
                             artistJson[artist.Name] = new JObject
                             {
-                                {"name", artist.Name},
-                                {"url", artist.ExternalUrls["spotify"]},
-                                {"id", artist.Id}
+                                {"sname", artist.Name},
+                                {"surl", artist.ExternalUrls["spotify"]},
+                                {"sid", artist.Id}
                             };
                         artJson.Add(artist.Name);
                     }
@@ -58,7 +58,8 @@ namespace HiddenUpdater
                     obj["artists"] = artJson;
                     obj["popularity"] = track.Popularity;
                     obj["durationMs"] = track.DurationMs;
-                    obj["url"] = track.ExternUrls["spotify"];
+                    obj["surl"] = track.ExternUrls["spotify"];
+                    obj["sid"] = track.Id;
 
                     playlistJson.Add(obj);
                     C++;
@@ -70,7 +71,7 @@ namespace HiddenUpdater
             Console.WriteLine("Getting artists...");
             foreach (var kv in artistJson)
             {
-                var artist = spotify.GetArtist((string) kv.Value["id"]);
+                var artist = spotify.GetArtist((string) kv.Value["sid"]);
                 var artJson = kv.Value;
                 artJson["followers"] = artist?.Followers?.Total;
                 artJson["popularity"] = artist?.Popularity;
@@ -79,6 +80,7 @@ namespace HiddenUpdater
 
             //Console.WriteLine(artistJson.ToString(Formatting.None));
             File.WriteAllText("songs.json", playlistJson.ToString());
+            File.WriteAllText("artists.json", new JArray(artistJson.Children().Select(tk=>tk.Last)).ToString());
         }
     }
 }
