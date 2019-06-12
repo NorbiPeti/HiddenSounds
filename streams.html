@@ -1,0 +1,28 @@
+---
+title: Streams
+ptitle: Streams
+---
+
+<ul>
+{% assign streams = site.data.streams | reverse %}
+{% for stream in streams %}
+    <li>
+        <h2>
+            {%- if stream.host == '!Chill' -%}        Tuesday Chill Stream
+            {%- elsif stream.host == '!Throwback' -%}  Throwback: {{ stream.throwbackHost }}
+            {%- elsif stream.host == '!Roundup' -%}    Monthly Roundup
+            {%- else -%}                              {{- stream.host -}}
+            {%- endif -%}
+            {% if stream.live %} - LIVE {%- endif -%}
+        </h2>
+    </li>
+    <li>
+        {{ stream.date | date: "%a, %b %d, %Y" }}
+    </li>
+    {%- if stream.streamer -%} {% comment %} No streamer for future streams {% endcomment %}
+    <li>
+        Streamer: {{ stream.streamer }}
+    </li>
+    {%- endif -%}
+{% endfor %}
+</ul>

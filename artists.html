@@ -1,12 +1,12 @@
 ---
 title: Artists
+ptitle: Artists
 ---
-<h1>Artists</h1>
-
 <ul>
-    {% for artist in site.artists %}
+    {% assign artists = site.data.artists | sort: 'sname' %}
+    {% for artist in artists %}
     <li>
-        <h2>{{ artist.name }}</h2>
+        <h2><a href="{{ site.baseurl }}/{{ artist.sname | datapage_url: 'artists' }}">{{ artist.sname }}</a></h2>
         <h3>{{ artist.position }}</h3>
         <p>{{ artist.content | markdownify }}</p>
     </li>

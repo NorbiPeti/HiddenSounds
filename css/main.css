@@ -50,3 +50,27 @@ h1 {
 .content {
     /*background-color: #1f2523;*/
 }
+
+nav ul { /* Menü */
+    list-style-type: none;
+    margin: auto;
+    display: table;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    height: 23px;
+}
+
+nav li a:hover {
+    color: aqua;
+}

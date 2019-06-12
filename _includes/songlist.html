@@ -2,17 +2,18 @@
     <p>
         {%- assign isFirst = true -%}
         {%- for artistName in song.artists -%}
-        {%- if isFirst == true -%}
-        {%- assign isFirst = false -%}
-        {%- else -%}, {% comment %} Comma and space to separate artists {% endcomment %}
-        {%- endif -%}
-        {%- assign artist = site.artists | where: 'name', artistName | first -%}
-        {%- if artist -%}
-        <a href="{{ artist.url | prepend: site.baseurl }}">{{ artist.name }}</a>
-        {%- else -%}
-        {{ artistName }}
-        {%- endif -%}
+            {%- if isFirst == true -%}
+                {%- assign isFirst = false -%}
+            {%- else -%}
+                , {% comment %} Comma and space to separate artists {% endcomment %}
+            {%- endif -%}
+            {%- assign artist = site.data.artists | where: 'sname', artistName | first -%}
+            {%- if artist -%}
+                <a href="{{ artist.sname | datapage_url: 'artists' }}">{{ artist.sname }}</a>
+            {%- else -%}
+                {{ artistName }}
+            {%- endif -%}
         {%- endfor -%}
-        {% comment %} Space needed {% endcomment %} - <a href="{{ song.url }}">{{ song.name }}</a>
+        {% comment %} Space needed {% endcomment %} - <a href="{{ site.baseurl }}/{{ song.sname | datapage_url: 'songs' }}">{{ song.sname }}</a>
     </p>
 </div>

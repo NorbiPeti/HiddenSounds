@@ -1,7 +1,7 @@
 ---
 title: FAQ
+ptitle: Frequently Asked Questions
 ---
-# Frequently Asked Questions
 ## What is Hidden Sounds?
 Hidden Sounds is a group of independent artists joining together to support 100% independent releases.
 

@@ -1,20 +1,24 @@
 ---
 layout: default
 title: Hidden Sounds
+ptitle: Hidden Sounds Unofficial (Fan) Website
 ---
-<h1>Hidden Sounds Unofficial (Fan) Website</h1>
 <div id="popularSongs" class="content">
     <h2>Popular Songs</h2>
     <div id="popularContainer">
-        {% for song in site.data.songs %}
-        {% include songlist.html %}
+        {% assign popularSongs = site.data.songs | sort: 'popularity' | reverse %}
+        {% for song in popularSongs %}
+            {% if forloop.index > 10 %} {% break %} {% endif %}
+            {% include songlist.html %}
         {% endfor %}
     </div>
 </div>
 <div id="hiddenSongs" class="content">
     <h2>Hidden Songs</h2>
     <div id="hiddenContainer">
-        {% for song in site.data.songs %}
+        {% assign hiddenSongs = site.data.songs | sort: 'popularity' %}
+        {% for song in hiddenSongs %}
+        {% if forloop.index > 10 %} {% break %} {% endif %}
         {% include songlist.html %}
         {% endfor %}
     </div>

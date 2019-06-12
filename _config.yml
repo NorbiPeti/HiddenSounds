@@ -19,5 +19,5 @@ page_gen:
     template: song
     name: sname
   - data: artists
-    template: song
-    name: sid
+    template: artist
+    name: sname

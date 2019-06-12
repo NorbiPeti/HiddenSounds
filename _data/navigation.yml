@@ -1,0 +1,8 @@
+- name: Home
+  link:
+- name: Artists
+  link: artists.html
+- name: FAQ
+  link: faq.html
+- name: Streams
+  link: streams.html

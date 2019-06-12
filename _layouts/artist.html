@@ -1,16 +1,21 @@
 ---
 layout: default
 title: page.name
+ptitle: '{{ page.sname }}'
 ---
-<h1>{{ page.name }}</h1>
 <h2>{{ page.position }}</h2>
-
-{{ content }}
 
 <h2>Songs</h2>
 <ul>
-    {% assign filtered_songs = site.data.songs | where: 'artist', page.name %}
+    {% assign filtered_songs = site.data.songs %}
     {% for song in filtered_songs %}
-    <li><a href="{{ song.url }}">{{ song.artist }} - {{ song.title }}</a></li>
+        {% assign found = false %}
+        {% for artist in song.artists %}
+            {% if artist == page.sname %}
+                {% assign found = true %}
+            {% endif %}
+        {% endfor %}
+        {% if found == false %} {% continue %} {% endif %}
+    <li><a href="{{ site.baseurl }}/songs{{ song.sname | datapage_url: songs }}">{{ song.artists | join: ", " }} - {{ song.sname }}</a></li>
     {% endfor %}
 </ul>
