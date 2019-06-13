@@ -1,28 +1,388 @@
----
-title: Streams
-ptitle: Streams
----
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <title>Streams - HS Fanpage</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="/HiddenSounds/icon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" type="image/x-icon" href="/HiddenSounds/favicon.ico"/>
+
+    <link rel="stylesheet" href="/HiddenSounds/css/main.css">
+
+    <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+<div class="bg-image"></div>
+<h1>Streams</h1>
+<nav>
+    <ul>
+        
+        <li><a href="/HiddenSounds/" >
+            Home
+        </a></li>
+        
+        <li><a href="/HiddenSounds/artists.html" >
+            Artists
+        </a></li>
+        
+        <li><a href="/HiddenSounds/faq.html" >
+            FAQ
+        </a></li>
+        
+        <li><a href="/HiddenSounds/streams.html" >
+            Streams
+        </a></li>
+        
+    </ul>
+</nav>
+<!--[if IE]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
+    your browser</a> to improve your experience and security.</p>
+<![endif]-->
 
 <ul>
-{% assign streams = site.data.streams | reverse %}
-{% for stream in streams %}
+
+
     <li>
-        <h2>
-            {%- if stream.host == '!Chill' -%}        Tuesday Chill Stream
-            {%- elsif stream.host == '!Throwback' -%}  Throwback: {{ stream.throwbackHost }}
-            {%- elsif stream.host == '!Roundup' -%}    Monthly Roundup
-            {%- else -%}                              {{- stream.host -}}
-            {%- endif -%}
-            {% if stream.live %} - LIVE {%- endif -%}
-        </h2>
+        <h2>Miyoki</h2>
     </li>
     <li>
-        {{ stream.date | date: "%a, %b %d, %Y" }}
+        Thu, Jun 27, 2019
     </li>
-    {%- if stream.streamer -%} {% comment %} No streamer for future streams {% endcomment %}
     <li>
-        Streamer: {{ stream.streamer }}
+        <h2>Sublab</h2>
     </li>
-    {%- endif -%}
-{% endfor %}
+    <li>
+        Thu, Jun 20, 2019
+    </li>
+    <li>
+        <h2>Au5</h2>
+    </li>
+    <li>
+        Thu, Jun 13, 2019
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Jun 11, 2019
+    </li>
+    <li>
+        Streamer: Cara Leigh
+    </li>
+    <li>
+        <h2>Monthly Roundup</h2>
+    </li>
+    <li>
+        Thu, Jun 06, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Jun 04, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Zoe Moon</h2>
+    </li>
+    <li>
+        Thu, May 30, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, May 28, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Laura Brehm</h2>
+    </li>
+    <li>
+        Thu, May 23, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, May 21, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Covex</h2>
+    </li>
+    <li>
+        Thu, May 16, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, May 14, 2019
+    </li>
+    <li>
+        Streamer: Cara Leigh
+    </li>
+    <li>
+        <h2>Monthly Roundup</h2>
+    </li>
+    <li>
+        Thu, May 09, 2019
+    </li>
+    <li>
+        Streamer: Cara Leigh
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, May 07, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Lucy Daydream</h2>
+    </li>
+    <li>
+        Thu, May 02, 2019
+    </li>
+    <li>
+        Streamer: Lucy Daydream
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Apr 30, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Throwback: Arc North</h2>
+    </li>
+    <li>
+        Thu, Apr 25, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Apr 23, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>AK</h2>
+    </li>
+    <li>
+        Thu, Apr 18, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Apr 16, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Veela</h2>
+    </li>
+    <li>
+        Thu, Apr 11, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Apr 09, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Au5</h2>
+    </li>
+    <li>
+        Thu, Apr 04, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Apr 02, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Varien</h2>
+    </li>
+    <li>
+        Thu, Mar 28, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Mar 26, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Throwback: CASHFORGOLD</h2>
+    </li>
+    <li>
+        Thu, Mar 21, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Mar 19, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Throwback: floatinurboat</h2>
+    </li>
+    <li>
+        Thu, Mar 14, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Mar 12, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Approaching Nirvana</h2>
+    </li>
+    <li>
+        Thu, Mar 07, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Tuesday Chill Stream</h2>
+    </li>
+    <li>
+        Tue, Mar 05, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Monthly Roundup</h2>
+    </li>
+    <li>
+        Thu, Feb 28, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Throwback: Laura Brehm, Arc North, Rival</h2>
+    </li>
+    <li>
+        Thu, Feb 21, 2019
+    </li>
+    <li>
+        Streamer: Approaching Nirvana
+    </li>
+    <li>
+        <h2>Rameses B</h2>
+    </li>
+    <li>
+        Thu, Feb 14, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Throwback: Sublab</h2>
+    </li>
+    <li>
+        Thu, Feb 07, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Monthly Roundup</h2>
+    </li>
+    <li>
+        Thu, Jan 31, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
+    <li>
+        <h2>Voicians - LIVE</h2>
+    </li>
+    <li>
+        Thu, Jan 24, 2019
+    </li>
+    <li>
+        Streamer: Anna Yvette
+    </li>
 </ul>
+
+</body>
+
+</html>

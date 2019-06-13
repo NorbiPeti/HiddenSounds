@@ -1,0 +1,70 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <title>FAQ - HS Fanpage</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="/HiddenSounds/icon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" type="image/x-icon" href="/HiddenSounds/favicon.ico"/>
+
+    <link rel="stylesheet" href="/HiddenSounds/css/main.css">
+
+    <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+<div class="bg-image"></div>
+<h1>Frequently Asked Questions</h1>
+<nav>
+    <ul>
+        
+        <li><a href="/HiddenSounds/" >
+            Home
+        </a></li>
+        
+        <li><a href="/HiddenSounds/artists.html" >
+            Artists
+        </a></li>
+        
+        <li><a href="/HiddenSounds/faq.html" >
+            FAQ
+        </a></li>
+        
+        <li><a href="/HiddenSounds/streams.html" >
+            Streams
+        </a></li>
+        
+    </ul>
+</nav>
+<!--[if IE]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
+    your browser</a> to improve your experience and security.</p>
+<![endif]-->
+
+<h2 id="what-is-hidden-sounds">What is Hidden Sounds?</h2>
+<p>Hidden Sounds is a group of independent artists joining together to support 100% independent releases.</p>
+
+<p>The Spotify playlist is updated weekly with new music and there are streams on Twitch every Tuesday and Thursday at 2 PM EST.
+Tuesday streams are more chill, playing the <a href="https://open.spotify.com/user/ac7gpdbrhe2wjmigacy65mdls/playlist/2YDWLcBzTpDNQDfcQyy76b?si=DTkN1vapRIyjCesTGgA99g">Spotify playlist</a>, while on Thursday member artists host the stream unless it’s the monthly roundup. The monthly roundup features songs released in that month.</p>
+
+<h2 id="is-it-thursday-yet">Is it Thursday yet?</h2>
+<p><span id="thursday">Maybe</span>
+<script>
+    const d = new Date().getDay();
+    var text="";
+    if(d == 1) text="No, but tomorrow's Tuesday!";
+    else if(d == 2) text="No, but it's Tuesday!";
+    else if(d == 3) text="Not yet, it's tomorrow!";
+    else if(d == 4) text="Yes!";
+    else text="No, but Tuesday is "+(d == 0 ? 9-d-7 : 9-d) //Hehe
+    +" days away!";
+    document.getElementById("thursday").innerText=text;
+</script></p>
+
+</body>
+
+</html>
