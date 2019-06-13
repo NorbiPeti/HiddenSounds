@@ -1,0 +1,13 @@
+---
+layout: default
+title: All Songs
+ptitle: All Songs
+---
+<div id="songs" class="content">
+    <div id="container">
+        {% assign songs = site.data.songs | sort: 'popularity' %}
+        {% for song in songs %}
+            {% include songlist.html %}
+        {% endfor %}
+    </div>
+</div>

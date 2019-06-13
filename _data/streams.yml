@@ -76,6 +76,7 @@
 - date: '2019-05-02'
   host: 'Lucy Daydream'
   streamer: 'Lucy Daydream'
+  live: true
 - date: '2019-05-07'
   host: '!Chill'
   streamer: 'Anna Yvette'
@@ -111,6 +112,7 @@
   streamer: 'Cara Leigh'
 - date: '2019-06-13'
   host: 'Au5'
+  streamer: 'Approaching Nirvana'
 - date: '2019-06-20'
   host: 'Sublab'
 - date: '2019.06.27'
