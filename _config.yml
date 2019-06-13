@@ -21,3 +21,4 @@ page_gen:
   - data: artists
     template: artist
     name: sname
+exclude: [vendor]
