@@ -17,7 +17,7 @@ baseurl: /HiddenSounds
 page_gen:
   - data: songs
     template: song
-    name: sname
+    name: sid
   - data: artists
     template: artist
     name: sname
