@@ -15,7 +15,7 @@
     "artists": [
       "Roxanne Emery"
     ],
-    "popularity": 8,
+    "popularity": 7,
     "durationMs": 192279,
     "surl": "https://open.spotify.com/track/01Aum8bxlAx0bw0b0djXVc",
     "sid": "01Aum8bxlAx0bw0b0djXVc"
@@ -143,7 +143,7 @@
     "artists": [
       "Floatinurboat"
     ],
-    "popularity": 2,
+    "popularity": 3,
     "durationMs": 86557,
     "surl": "https://open.spotify.com/track/0C0JWVACZ7uOPIcjxXBJqM",
     "sid": "0C0JWVACZ7uOPIcjxXBJqM"
@@ -153,7 +153,7 @@
     "artists": [
       "Chris Pop"
     ],
-    "popularity": 1,
+    "popularity": 0,
     "durationMs": 165600,
     "surl": "https://open.spotify.com/track/0Cbvq4hYIVk57DSOcviByu",
     "sid": "0Cbvq4hYIVk57DSOcviByu"
@@ -216,7 +216,7 @@
     "artists": [
       "Lucy Daydream"
     ],
-    "popularity": 2,
+    "popularity": 1,
     "durationMs": 169411,
     "surl": "https://open.spotify.com/track/0LCkyhKS6igstAckETWfjt",
     "sid": "0LCkyhKS6igstAckETWfjt"
@@ -226,7 +226,7 @@
     "artists": [
       "Faodail"
     ],
-    "popularity": 24,
+    "popularity": 23,
     "durationMs": 187090,
     "surl": "https://open.spotify.com/track/0LEl04JwDlrczgFvg5N8XG",
     "sid": "0LEl04JwDlrczgFvg5N8XG"
@@ -257,7 +257,7 @@
       "Varien",
       "STRIX"
     ],
-    "popularity": 40,
+    "popularity": 39,
     "durationMs": 231529,
     "surl": "https://open.spotify.com/track/0OU4Xss44JXBV6BHh3Timb",
     "sid": "0OU4Xss44JXBV6BHh3Timb"
@@ -331,7 +331,7 @@
       "Arkane Skye",
       "Veela"
     ],
-    "popularity": 33,
+    "popularity": 32,
     "durationMs": 255652,
     "surl": "https://open.spotify.com/track/0QfMaksMADczJc0nwh5FHt",
     "sid": "0QfMaksMADczJc0nwh5FHt"
@@ -459,7 +459,7 @@
       "Elliot Berger",
       "Laura Brehm"
     ],
-    "popularity": 27,
+    "popularity": 26,
     "durationMs": 240468,
     "surl": "https://open.spotify.com/track/0k0LB9clVp17J75O4gWPAl",
     "sid": "0k0LB9clVp17J75O4gWPAl"
@@ -604,7 +604,7 @@
     "artists": [
       "Lucy Daydream"
     ],
-    "popularity": 38,
+    "popularity": 37,
     "durationMs": 190243,
     "surl": "https://open.spotify.com/track/0xmkI0uZtDKGuFoarKzrrJ",
     "sid": "0xmkI0uZtDKGuFoarKzrrJ"
@@ -766,7 +766,7 @@
     "artists": [
       "Veela"
     ],
-    "popularity": 28,
+    "popularity": 27,
     "durationMs": 252380,
     "surl": "https://open.spotify.com/track/1BAlmpiax2VICsgqT5yJew",
     "sid": "1BAlmpiax2VICsgqT5yJew"
@@ -926,7 +926,7 @@
       "Hyper Potions",
       "VGR"
     ],
-    "popularity": 37,
+    "popularity": 36,
     "durationMs": 240000,
     "surl": "https://open.spotify.com/track/1R2CSc0yO1ThjXkTs7P2fH",
     "sid": "1R2CSc0yO1ThjXkTs7P2fH"
@@ -952,11 +952,23 @@
     "sid": "1RKRHaHzJ6ECeRBglLrNwC"
   },
   {
+    "sname": "Stay The Night",
+    "artists": [
+      "Egzod",
+      "N3WPORT",
+      "Evoke"
+    ],
+    "popularity": 33,
+    "durationMs": 192200,
+    "surl": "https://open.spotify.com/track/1Rthd7svbDBajW6HQzROzC",
+    "sid": "1Rthd7svbDBajW6HQzROzC"
+  },
+  {
     "sname": "Red",
     "artists": [
       "Lucy Daydream"
     ],
-    "popularity": 43,
+    "popularity": 42,
     "durationMs": 238736,
     "surl": "https://open.spotify.com/track/1SPDPBLFgpyllrn9Asg5rW",
     "sid": "1SPDPBLFgpyllrn9Asg5rW"
@@ -1139,7 +1151,7 @@
       "Hudson Lee",
       "Laura Brehm"
     ],
-    "popularity": 26,
+    "popularity": 25,
     "durationMs": 199354,
     "surl": "https://open.spotify.com/track/1paVnKBWfVv2mz4ATvPoh1",
     "sid": "1paVnKBWfVv2mz4ATvPoh1"
@@ -1226,7 +1238,7 @@
       "David Shane",
       "Rob Gasser"
     ],
-    "popularity": 32,
+    "popularity": 31,
     "durationMs": 238588,
     "surl": "https://open.spotify.com/track/1sEkDNbhVRbSd3Z55gp2rv",
     "sid": "1sEkDNbhVRbSd3Z55gp2rv"
@@ -1368,7 +1380,7 @@
     "artists": [
       "Sublab"
     ],
-    "popularity": 23,
+    "popularity": 22,
     "durationMs": 201817,
     "surl": "https://open.spotify.com/track/24vUCnWf5xOMCvq0tpf4ks",
     "sid": "24vUCnWf5xOMCvq0tpf4ks"
@@ -1492,7 +1504,7 @@
     "artists": [
       "Mr. Bill"
     ],
-    "popularity": 20,
+    "popularity": 21,
     "durationMs": 246000,
     "surl": "https://open.spotify.com/track/2IVnF5bySSuNjytT4kHPEN",
     "sid": "2IVnF5bySSuNjytT4kHPEN"
@@ -1756,7 +1768,7 @@
     "artists": [
       "CASHFORGOLD;Tim Schaufert"
     ],
-    "popularity": 18,
+    "popularity": 17,
     "durationMs": 184774,
     "surl": "https://open.spotify.com/track/2l1H0uEfKbVsiqsWxwN7gV",
     "sid": "2l1H0uEfKbVsiqsWxwN7gV"
@@ -1767,7 +1779,7 @@
       "Covex",
       "Chloe Tang"
     ],
-    "popularity": 12,
+    "popularity": 11,
     "durationMs": 164571,
     "surl": "https://open.spotify.com/track/2lifSBX7a9Zd1JTe7zVSeR",
     "sid": "2lifSBX7a9Zd1JTe7zVSeR"
@@ -2031,7 +2043,7 @@
       "Direct",
       "Danyka Nadeau"
     ],
-    "popularity": 27,
+    "popularity": 26,
     "durationMs": 275014,
     "surl": "https://open.spotify.com/track/3CYHJovtr18nIERKH6vAP8",
     "sid": "3CYHJovtr18nIERKH6vAP8"
@@ -2052,7 +2064,7 @@
       "Arc North",
       "DJ Rival"
     ],
-    "popularity": 23,
+    "popularity": 22,
     "durationMs": 165333,
     "surl": "https://open.spotify.com/track/3DoIRNLYVQqax7XMg7UDs1",
     "sid": "3DoIRNLYVQqax7XMg7UDs1"
@@ -2125,7 +2137,7 @@
     "artists": [
       "Chris Pop"
     ],
-    "popularity": 2,
+    "popularity": 1,
     "durationMs": 159428,
     "surl": "https://open.spotify.com/track/3MWUUchDiMhTAQQxxAQowE",
     "sid": "3MWUUchDiMhTAQQxxAQowE"
@@ -2338,7 +2350,7 @@
     "artists": [
       "Q'Aila"
     ],
-    "popularity": 4,
+    "popularity": 5,
     "durationMs": 206000,
     "surl": "https://open.spotify.com/track/3l2ZGjLbqb17NqN5mnPOLm",
     "sid": "3l2ZGjLbqb17NqN5mnPOLm"
@@ -2405,6 +2417,16 @@
     "durationMs": 247365,
     "surl": "https://open.spotify.com/track/3ryMOdK9u92GKz2JTUFb8l",
     "sid": "3ryMOdK9u92GKz2JTUFb8l"
+  },
+  {
+    "sname": "Fatal Temper",
+    "artists": [
+      "Sublab"
+    ],
+    "popularity": 15,
+    "durationMs": 261818,
+    "surl": "https://open.spotify.com/track/3sO5ox7D42FFCBIHDzutlC",
+    "sid": "3sO5ox7D42FFCBIHDzutlC"
   },
   {
     "sname": "Afterlife",
@@ -2477,7 +2499,7 @@
       "CASHFORGOLD",
       "Tim Schaufert"
     ],
-    "popularity": 23,
+    "popularity": 22,
     "durationMs": 221181,
     "surl": "https://open.spotify.com/track/3voVtw1mYoGMlkYzkYqvwZ",
     "sid": "3voVtw1mYoGMlkYzkYqvwZ"
@@ -2609,6 +2631,18 @@
     "sid": "45rjvFVKEBTLC9fFHvEUyx"
   },
   {
+    "sname": "Where We Wanna Be",
+    "artists": [
+      "Hyper Potions",
+      "Mega Flare",
+      "Slyleaf"
+    ],
+    "popularity": 0,
+    "durationMs": 206953,
+    "surl": "https://open.spotify.com/track/46PVskv9ZO7W37YGfNIRCd",
+    "sid": "46PVskv9ZO7W37YGfNIRCd"
+  },
+  {
     "sname": "The Zero Point",
     "artists": [
       "Au5",
@@ -2634,7 +2668,7 @@
     "artists": [
       "Sublab"
     ],
-    "popularity": 29,
+    "popularity": 28,
     "durationMs": 192000,
     "surl": "https://open.spotify.com/track/4C5k13To4Kfg9ZfL5dpQ1I",
     "sid": "4C5k13To4Kfg9ZfL5dpQ1I"
@@ -2763,7 +2797,7 @@
       "Teminite",
       "Anna Yvette"
     ],
-    "popularity": 32,
+    "popularity": 31,
     "durationMs": 307647,
     "surl": "https://open.spotify.com/track/4J4mZDs4fAUS0fUJ7yhGnW",
     "sid": "4J4mZDs4fAUS0fUJ7yhGnW"
@@ -2928,7 +2962,7 @@
     "artists": [
       "Sekai"
     ],
-    "popularity": 29,
+    "popularity": 28,
     "durationMs": 280946,
     "surl": "https://open.spotify.com/track/4jbIMHPt2m6FeKjeYTheI1",
     "sid": "4jbIMHPt2m6FeKjeYTheI1"
@@ -2950,7 +2984,7 @@
       "Bearier",
       "Miyoki"
     ],
-    "popularity": 4,
+    "popularity": 3,
     "durationMs": 240999,
     "surl": "https://open.spotify.com/track/4ljODlaNcG7TdXzHUgiG42",
     "sid": "4ljODlaNcG7TdXzHUgiG42"
@@ -3051,6 +3085,16 @@
     "sid": "59i2DFuKhsXqSUf8mUYJNN"
   },
   {
+    "sname": "Hellos",
+    "artists": [
+      "Lucy Daydream"
+    ],
+    "popularity": 33,
+    "durationMs": 179310,
+    "surl": "https://open.spotify.com/track/5B1c8bI18tSkUvOKq4Wut8",
+    "sid": "5B1c8bI18tSkUvOKq4Wut8"
+  },
+  {
     "sname": "Myopia",
     "artists": [
       "Approaching Nirvana"
@@ -3117,7 +3161,7 @@
     "artists": [
       "QORA"
     ],
-    "popularity": 5,
+    "popularity": 6,
     "durationMs": 175500,
     "surl": "https://open.spotify.com/track/5JHGiJMq4bBeOCk14gQRQa",
     "sid": "5JHGiJMq4bBeOCk14gQRQa"
@@ -3366,7 +3410,7 @@
       "Rameses B",
       "Zoe Moon"
     ],
-    "popularity": 26,
+    "popularity": 25,
     "durationMs": 243375,
     "surl": "https://open.spotify.com/track/5kGRBxRrd6I4gmVb9CIm40",
     "sid": "5kGRBxRrd6I4gmVb9CIm40"
@@ -3387,7 +3431,7 @@
       "Mr. Bill",
       "Funi"
     ],
-    "popularity": 33,
+    "popularity": 32,
     "durationMs": 212631,
     "surl": "https://open.spotify.com/track/5lx07edfK76biZw3e3lRSJ",
     "sid": "5lx07edfK76biZw3e3lRSJ"
@@ -3633,7 +3677,7 @@
     "artists": [
       "Sublab"
     ],
-    "popularity": 24,
+    "popularity": 23,
     "durationMs": 210461,
     "surl": "https://open.spotify.com/track/62EpcX6IXwI3hqZoYs9463",
     "sid": "62EpcX6IXwI3hqZoYs9463"
@@ -3792,6 +3836,16 @@
     "durationMs": 212571,
     "surl": "https://open.spotify.com/track/6Ebi1RunptWbKim0mChWgp",
     "sid": "6Ebi1RunptWbKim0mChWgp"
+  },
+  {
+    "sname": "More of Your Love",
+    "artists": [
+      "Approaching Nirvana"
+    ],
+    "popularity": 33,
+    "durationMs": 197760,
+    "surl": "https://open.spotify.com/track/6GxlApXsd7HXlwsZqyKrjo",
+    "sid": "6GxlApXsd7HXlwsZqyKrjo"
   },
   {
     "sname": "Rising from the Ashes",
@@ -4058,7 +4112,7 @@
     "artists": [
       "AK"
     ],
-    "popularity": 20,
+    "popularity": 21,
     "durationMs": 236773,
     "surl": "https://open.spotify.com/track/6gZawF9BXLDKsJWclZhbqf",
     "sid": "6gZawF9BXLDKsJWclZhbqf"
@@ -4068,7 +4122,7 @@
     "artists": [
       "Rob Gasser"
     ],
-    "popularity": 23,
+    "popularity": 24,
     "durationMs": 236000,
     "surl": "https://open.spotify.com/track/6gfUWOIqtkjs7w6ILkJ8pt",
     "sid": "6gfUWOIqtkjs7w6ILkJ8pt"
@@ -4154,7 +4208,7 @@
       "CASHFORGOLD",
       "Phaeleh"
     ],
-    "popularity": 37,
+    "popularity": 36,
     "durationMs": 195937,
     "surl": "https://open.spotify.com/track/6uNpvav1J89UQC3JzqGrDj",
     "sid": "6uNpvav1J89UQC3JzqGrDj"
@@ -4280,7 +4334,7 @@
     "artists": [
       "Andrew Applepie"
     ],
-    "popularity": 34,
+    "popularity": 33,
     "durationMs": 201056,
     "surl": "https://open.spotify.com/track/76JmNHOa33V2o9aojtsghv",
     "sid": "76JmNHOa33V2o9aojtsghv"
@@ -4311,7 +4365,7 @@
     "artists": [
       "Laura Brehm"
     ],
-    "popularity": 20,
+    "popularity": 19,
     "durationMs": 238223,
     "surl": "https://open.spotify.com/track/78GuIFNotykRRdLvLCMliQ",
     "sid": "78GuIFNotykRRdLvLCMliQ"
@@ -4331,7 +4385,7 @@
     "artists": [
       "Anna Yvette"
     ],
-    "popularity": 26,
+    "popularity": 25,
     "durationMs": 221518,
     "surl": "https://open.spotify.com/track/7B2pRsFVYT0ntK7xKbQwsn",
     "sid": "7B2pRsFVYT0ntK7xKbQwsn"
@@ -4447,7 +4501,7 @@
     "artists": [
       "Voicians"
     ],
-    "popularity": 30,
+    "popularity": 29,
     "durationMs": 193124,
     "surl": "https://open.spotify.com/track/7KjULXIAh42qXLAlqawOlu",
     "sid": "7KjULXIAh42qXLAlqawOlu"
@@ -4574,7 +4628,7 @@
     "artists": [
       "Rob Gasser"
     ],
-    "popularity": 8,
+    "popularity": 9,
     "durationMs": 194827,
     "surl": "https://open.spotify.com/track/7mWdMKUnSq7PTDWlerTdFX",
     "sid": "7mWdMKUnSq7PTDWlerTdFX"
