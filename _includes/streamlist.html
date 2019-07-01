@@ -1,0 +1,20 @@
+<li>
+    <h3>
+        {%- if stream.host == '!Chill' -%}          Tuesday Chill Stream
+        {%- elsif stream.host == '?Throwback' -%}   Throwback: {{ stream.throwbackHost }}
+        {%- elsif stream.host == '?Roundup' -%}     Monthly Roundup
+        {%- elsif stream.host == '!Yearmix' -%}     {{ stream.year }} yearmix
+        {%- elsif stream.host == '!AMA' -%}         Q & A: {{ stream.amaHost }}
+        {%- else -%}                              {{- stream.host -}}
+        {%- endif -%}
+        {% if stream.live %} - LIVE {%- endif -%}
+    </h3>
+</li>
+<li>
+    {{ stream.date | date: "%a, %b %d, %Y" }}
+</li>
+{%- if stream.streamer -%} {% comment %} No streamer for future streams {% endcomment %}
+<li>
+    Streamer: {{ stream.streamer }}
+</li>
+{%- endif -%}

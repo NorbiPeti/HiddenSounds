@@ -74,3 +74,19 @@ nav li a {
 nav li a:hover {
     color: aqua;
 }
+
+.stream-column {
+    float: left;
+    width: 33.33%;
+}
+
+.stream-column h2 {
+    text-align: center;
+}
+
+/* Clear floats after the columns */
+.stream-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
