@@ -69,6 +69,8 @@ namespace HiddenUpdater
             Console.WriteLine(C + " / " + tracks.Total);
 
             Console.WriteLine("Getting artists...");
+            C = 0;
+            int max = artistJson.Count;
             foreach (var kv in artistJson)
             {
                 var artist = spotify.GetArtist((string) kv.Value["sid"]);
@@ -76,7 +78,11 @@ namespace HiddenUpdater
                 artJson["followers"] = artist?.Followers?.Total;
                 artJson["popularity"] = artist?.Popularity;
                 artJson["genres"] = new JArray(artist?.Genres);
+                C++;
+                if (C % 10 == 0) Console.Write("\r" + C + "/" + max + " - " + (C / (float) max) * 100 + "%");
             }
+
+            Console.WriteLine("\r" + C + "/" + max + " - " + (C / (float) max) * 100 + "%");
 
             //Console.WriteLine(artistJson.ToString(Formatting.None));
             File.WriteAllText("songs.json", new JArray(playlistJson.OrderBy(song=>song["sid"])).ToString());
