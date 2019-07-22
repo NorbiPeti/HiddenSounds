@@ -3,3 +3,10 @@ layout: default
 title: '{{ page.sname }}'
 ptitle: '{{ page.artists | join: ", " }} - {{ page.sname }}'
 ---
+<div class="pageContent">
+    <h2>Lyrics</h2>
+    <pre id="lyrics">
+        {%- assign song = site.data.songextra | where: 'sid', page.sid | first -%}
+        {{ song.lyrics }}
+    </pre>
+</div>

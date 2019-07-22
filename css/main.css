@@ -90,3 +90,11 @@ nav li a:hover {
     display: table;
     clear: both;
 }
+
+#lyrics {
+    font-family: sans-serif;
+}
+
+.pageContent {
+    margin: 20px;
+}
