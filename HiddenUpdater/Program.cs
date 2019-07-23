@@ -15,6 +15,12 @@ namespace HiddenUpdater
 
         public static async Task Main(string[] args)
         {
+            Console.Write("Download (1) or lyrics (2): ");
+            if (int.Parse(Console.ReadLine()) != 1)
+            {
+                StoreLyrics.Store();
+                return;
+            }
             var auth = new CredentialsAuth("ce11c54b88cf41149e528de5ec73aa69", File.ReadAllText("secret.txt"));
             var token = await auth.GetToken();
             var spotify = new SpotifyWebAPI
