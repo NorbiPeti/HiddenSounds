@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -81,11 +82,14 @@ namespace HiddenUpdater
             {
                 var artist = spotify.GetArtist((string) kv.Value["sid"]);
                 var artJson = kv.Value;
+                if (artist.HasError())
+                    Console.WriteLine(artist.Name + " - Error: " + artist.Error.Status + " - " + artist.Error.Message);
                 artJson["followers"] = artist?.Followers?.Total;
                 artJson["popularity"] = artist?.Popularity;
                 artJson["genres"] = new JArray(artist?.Genres);
                 C++;
                 if (C % 10 == 0) Console.Write("\r" + C + "/" + max + " - " + (C / (float) max) * 100 + "%");
+                if(C % 100 == 0) Thread.Sleep(2000); //It exceeded the ratelimit after 120-something
             }
 
             Console.WriteLine("\r" + C + "/" + max + " - " + (C / (float) max) * 100 + "%");
