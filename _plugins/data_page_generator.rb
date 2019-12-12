@@ -125,7 +125,10 @@ module Jekyll
     # Thus, if you use the `extension` feature of this plugin, you
     # need to generate the links by hand
     def datapage_url(input, dir)
-      extension = Jekyll.configuration({})['page_gen-dirs'] ? '/' : '.html'
+      if $config == nil
+        $config = Jekyll.configuration({}) # Prevent spamming "Configuration file: ..." - NorbiPeti
+      end
+      extension = $config['page_gen-dirs'] ? '/' : '.html'
       "#{dir}/#{sanitize_filename(input)}#{extension}"
     end
   end
