@@ -83,7 +83,11 @@ namespace HiddenUpdater
                 var artist = spotify.GetArtist((string) kv.Value["sid"]);
                 var artJson = kv.Value;
                 if (artist.HasError())
-                    Console.WriteLine(artist.Name + " - Error: " + artist.Error.Status + " - " + artist.Error.Message);
+                {
+                    Console.WriteLine(kv.Value["sid"] + " - Error: " + artist.Error.Status + " - " + artist.Error.Message);
+                    Thread.Sleep(5000);
+                    artist = spotify.GetArtist((string) kv.Value["sid"]);
+                }
                 artJson["followers"] = artist?.Followers?.Total;
                 artJson["popularity"] = artist?.Popularity;
                 artJson["genres"] = new JArray(artist?.Genres);
