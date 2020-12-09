@@ -80,7 +80,8 @@
   live: true
   tracklist:
     - artist: 'Voicians'
-      title: 'Devotion'
+      title: 'Potion'
+      link: 'https://open.spotify.com/track/14hAZvFFnYG7sszxRByd30?si=U0aj8P5HS1e9rHdsEOxxqA'
     - artist: 'Voicians'
       title: 'Loop'
       link: 'https://open.spotify.com/track/2g85NHqwJ2qEg8MZwa3SWb?si=qV2JKwEaS3ib2JAHJJnEEw'
@@ -110,7 +111,6 @@
     - artists: [ 'Mr. Bill', 'Of The Trees' ]
       title: 'Pish Posh'
       link: 'https://open.spotify.com/track/7sNw9S1Jird6Mh4p8BXIAF?si=YimTZ-q6RD20vMLL4Wxy9A'
-      #?
     - artist: 'Voicians'
       title: 'Wolves'
     - artist: 'Voicians'
@@ -130,7 +130,6 @@
     - artist: 'Voicians'
       title: 'Angels'
     # ?
-    # ?
     - artist: 'Approaching Nirvana'
       title: 'Not This Time'
     - artist: 'Rameses B'
@@ -148,7 +147,8 @@
       link: 'https://open.spotify.com/track/2JgeYPiw2WKBVsnNromiBh?si=4NSRFFTIS2Kfdrp-jGtpnQ'
     - artist: 'Anna Yvette'
       title: 'Rainbow Dream'
-    #?
+    - artists: [ 'Rezonate', 'Christopher Pop' ]
+      title: 'Toadstools (Christopher Pop Remix)'
     - artist: 'MYLK'
       title: 'Mashmallow Disco'
       link: 'https://open.spotify.com/track/63d4BntRS4qWSoq5Uciq46?si=6pkBGCc9TKqzzrskLKecWQ'
