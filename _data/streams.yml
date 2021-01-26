@@ -2,6 +2,7 @@
   host: 'Anna Yvette'
 - date: '2018-07-05'
   host: 'Approaching Nirvana'
+  streamer: 'Approaching Nirvana'
 - date: '2018-07-12'
   host: 'Electro-Light'
 - date: '2018-07-19'
@@ -76,7 +77,7 @@
   streamer: 'Anna Yvette'
 - date: '2019-01-24'
   host: 'Voicians'
-  streamer: 'Anna Yvette'
+  streamer: 'Voicians'
   live: true
   tracklist:
     - artist: 'Voicians'
