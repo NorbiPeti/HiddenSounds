@@ -3,10 +3,9 @@
     "sname": "2ToneDisco",
     "surl": "https://open.spotify.com/artist/2YTz2D6mvtfK7HWjq1HaPP",
     "sid": "2YTz2D6mvtfK7HWjq1HaPP",
-    "followers": 7414,
-    "popularity": 32,
+    "followers": 7741,
+    "popularity": 31,
     "genres": [
-      "future bass",
       "kawaii future bass"
     ]
   },
@@ -14,8 +13,8 @@
     "sname": "AFK",
     "surl": "https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL",
     "sid": "3eIM4tCQTGJXb0RDPfF2wL",
-    "followers": 29225,
-    "popularity": 38,
+    "followers": 29788,
+    "popularity": 40,
     "genres": [
       "dubstep",
       "gaming dubstep"
@@ -25,37 +24,39 @@
     "sname": "AK",
     "surl": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A",
     "sid": "33Cf4O1KAVbtQa00scMi2A",
-    "followers": 29904,
-    "popularity": 58,
+    "followers": 35162,
+    "popularity": 57,
     "genres": [
-      "chillstep"
+      "chillstep",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "AWR",
     "surl": "https://open.spotify.com/artist/6NCksidlwshpEGVW0Nm7oD",
     "sid": "6NCksidlwshpEGVW0Nm7oD",
-    "followers": 1238,
-    "popularity": 37,
+    "followers": 1247,
+    "popularity": 38,
     "genres": []
   },
   {
     "sname": "Adri",
     "surl": "https://open.spotify.com/artist/3rqzaAzjOeFwgIEhqwhozV",
     "sid": "3rqzaAzjOeFwgIEhqwhozV",
-    "followers": 94,
-    "popularity": 16,
+    "followers": 99,
+    "popularity": 18,
     "genres": []
   },
   {
     "sname": "Aether",
     "surl": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN",
     "sid": "5UyjnQfu4OsLGiOi3sIoEN",
-    "followers": 31673,
-    "popularity": 52,
+    "followers": 33547,
+    "popularity": 51,
     "genres": [
       "chillstep",
       "future bass",
+      "melodic dubstep",
       "vapor twitch",
       "wave"
     ]
@@ -64,47 +65,47 @@
     "sname": "AgNO3",
     "surl": "https://open.spotify.com/artist/53gxSdNXsdY242TiIurZdK",
     "sid": "53gxSdNXsdY242TiIurZdK",
-    "followers": 692,
-    "popularity": 32,
+    "followers": 728,
+    "popularity": 31,
     "genres": []
   },
   {
     "sname": "Agiya",
     "surl": "https://open.spotify.com/artist/60f6lio50egqAbSkwrclmd",
     "sid": "60f6lio50egqAbSkwrclmd",
-    "followers": 9,
-    "popularity": 13,
+    "followers": 8,
+    "popularity": 12,
     "genres": []
   },
   {
     "sname": "Airthrive",
     "surl": "https://open.spotify.com/artist/5ljo3vYSCZjZM6rWf3pRos",
     "sid": "5ljo3vYSCZjZM6rWf3pRos",
-    "followers": 56,
-    "popularity": 4,
+    "followers": 57,
+    "popularity": 3,
     "genres": []
   },
   {
     "sname": "Akacia",
     "surl": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5",
     "sid": "4D9a1UPPFCoOm1kBtJfni5",
-    "followers": 5375,
-    "popularity": 53,
+    "followers": 5681,
+    "popularity": 52,
     "genres": []
   },
   {
     "sname": "Alden Groves",
     "surl": "https://open.spotify.com/artist/0KzNyuU7ZoBowSA4js2ibj",
     "sid": "0KzNyuU7ZoBowSA4js2ibj",
-    "followers": 169,
-    "popularity": 5,
+    "followers": 241,
+    "popularity": 17,
     "genres": []
   },
   {
     "sname": "Alex Holmes",
     "surl": "https://open.spotify.com/artist/3z8cJXANYZnhvGg80JKBSN",
     "sid": "3z8cJXANYZnhvGg80JKBSN",
-    "followers": 900,
+    "followers": 1083,
     "popularity": 45,
     "genres": []
   },
@@ -112,24 +113,32 @@
     "sname": "Alex Marie Brinkley",
     "surl": "https://open.spotify.com/artist/16JD0dWowbHYiljTdlWf06",
     "sid": "16JD0dWowbHYiljTdlWf06",
-    "followers": 378,
-    "popularity": 38,
+    "followers": 392,
+    "popularity": 36,
+    "genres": []
+  },
+  {
+    "sname": "Alfite",
+    "surl": "https://open.spotify.com/artist/65ZOYKMDyfVurtucQ9A1TR",
+    "sid": "65ZOYKMDyfVurtucQ9A1TR",
+    "followers": 146,
+    "popularity": 20,
     "genres": []
   },
   {
     "sname": "Ana B",
     "surl": "https://open.spotify.com/artist/34CPtHkVLhKsDtUaeFXPNQ",
     "sid": "34CPtHkVLhKsDtUaeFXPNQ",
-    "followers": 109,
-    "popularity": 34,
+    "followers": 146,
+    "popularity": 38,
     "genres": []
   },
   {
     "sname": "Andrew Applepie",
     "surl": "https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE",
     "sid": "5BYcwjrQth7em7maAt0yKE",
-    "followers": 56363,
-    "popularity": 52,
+    "followers": 57652,
+    "popularity": 50,
     "genres": [
       "vapor soul"
     ]
@@ -138,36 +147,38 @@
     "sname": "Andrew Zink",
     "surl": "https://open.spotify.com/artist/2aoybyf3mgYIdVA5sX9TFV",
     "sid": "2aoybyf3mgYIdVA5sX9TFV",
-    "followers": 343,
-    "popularity": 48,
+    "followers": 475,
+    "popularity": 49,
     "genres": []
   },
   {
     "sname": "Anna Yvette",
     "surl": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z",
     "sid": "2Ndq6RparrhEoceel7LC4Z",
-    "followers": 17448,
-    "popularity": 57,
+    "followers": 18923,
+    "popularity": 56,
     "genres": []
   },
   {
     "sname": "Approaching Nirvana",
     "surl": "https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI",
     "sid": "3sS2Q1UZuUXL7TZSbQumDI",
-    "followers": 74253,
-    "popularity": 54,
+    "followers": 75192,
+    "popularity": 53,
     "genres": [
       "chillstep",
       "complextro",
-      "gaming edm"
+      "electro house",
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Arc North",
     "surl": "https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH",
     "sid": "2kgvaYV2tbNyOonFI3YlfH",
-    "followers": 47006,
-    "popularity": 65,
+    "followers": 52571,
+    "popularity": 64,
     "genres": [
       "gaming edm",
       "pop edm",
@@ -180,22 +191,22 @@
     "surl": "https://open.spotify.com/artist/2udhrhXAmOcZJPrK4daxbh",
     "sid": "2udhrhXAmOcZJPrK4daxbh",
     "followers": 36,
-    "popularity": 3,
+    "popularity": 2,
     "genres": []
   },
   {
     "sname": "Arkane Skye",
     "surl": "https://open.spotify.com/artist/1iU5CyXOYceov4fnm68V2o",
     "sid": "1iU5CyXOYceov4fnm68V2o",
-    "followers": 1460,
-    "popularity": 39,
+    "followers": 1652,
+    "popularity": 36,
     "genres": []
   },
   {
     "sname": "Ashley Apollodor",
     "surl": "https://open.spotify.com/artist/6n8gDEl7sDBnK4z08bsijw",
     "sid": "6n8gDEl7sDBnK4z08bsijw",
-    "followers": 4045,
+    "followers": 4214,
     "popularity": 46,
     "genres": []
   },
@@ -203,16 +214,16 @@
     "sname": "Atlas in Motion",
     "surl": "https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8",
     "sid": "1N9JxmOPJqhMCw219uoEi8",
-    "followers": 3636,
-    "popularity": 40,
+    "followers": 4340,
+    "popularity": 38,
     "genres": []
   },
   {
     "sname": "Au5",
     "surl": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF",
     "sid": "40WIa01eubnEVkxUHeDZyF",
-    "followers": 80747,
-    "popularity": 59,
+    "followers": 85126,
+    "popularity": 58,
     "genres": [
       "chillstep",
       "complextro",
@@ -222,6 +233,7 @@
       "future bass",
       "gaming edm",
       "melodic dubstep",
+      "pop dance",
       "pop edm"
     ]
   },
@@ -229,16 +241,16 @@
     "sname": "Avo",
     "surl": "https://open.spotify.com/artist/2oKbtNPSWAH5ik118pqJd6",
     "sid": "2oKbtNPSWAH5ik118pqJd6",
-    "followers": 36,
-    "popularity": 8,
+    "followers": 40,
+    "popularity": 7,
     "genres": []
   },
   {
     "sname": "Axel Boy",
     "surl": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ",
     "sid": "4DabGEOrvBxxta0YlaaJpJ",
-    "followers": 30244,
-    "popularity": 49,
+    "followers": 31569,
+    "popularity": 48,
     "genres": [
       "bass house",
       "brostep",
@@ -251,8 +263,8 @@
     "sname": "Azaleh",
     "surl": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY",
     "sid": "3yNkKjNBiX09eHZ4EQ3lJY",
-    "followers": 17860,
-    "popularity": 51,
+    "followers": 19815,
+    "popularity": 49,
     "genres": [
       "chillstep",
       "wave"
@@ -262,8 +274,8 @@
     "sname": "BLOOD CODE",
     "surl": "https://open.spotify.com/artist/3yNDCk0iRKefkfpiPhaVPv",
     "sid": "3yNDCk0iRKefkfpiPhaVPv",
-    "followers": 3469,
-    "popularity": 35,
+    "followers": 3775,
+    "popularity": 33,
     "genres": [
       "kawaii future bass"
     ]
@@ -272,8 +284,8 @@
     "sname": "Bare Noize",
     "surl": "https://open.spotify.com/artist/1rMry8Rh7VRoaKFWezSaMB",
     "sid": "1rMry8Rh7VRoaKFWezSaMB",
-    "followers": 9244,
-    "popularity": 41,
+    "followers": 9420,
+    "popularity": 40,
     "genres": [
       "filthstep"
     ]
@@ -282,7 +294,7 @@
     "sname": "Bearier",
     "surl": "https://open.spotify.com/artist/1uLYec3Kzm0gT2ZmnvQLEZ",
     "sid": "1uLYec3Kzm0gT2ZmnvQLEZ",
-    "followers": 73,
+    "followers": 72,
     "popularity": 0,
     "genres": []
   },
@@ -290,8 +302,8 @@
     "sname": "Bella Musser",
     "surl": "https://open.spotify.com/artist/6ToNdHewX8WGFQQpzBjQiQ",
     "sid": "6ToNdHewX8WGFQQpzBjQiQ",
-    "followers": 138,
-    "popularity": 15,
+    "followers": 140,
+    "popularity": 12,
     "genres": []
   },
   {
@@ -306,8 +318,8 @@
     "sname": "Bituke",
     "surl": "https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M",
     "sid": "3VCEbWGFkgN6oLTMvkhl2M",
-    "followers": 647,
-    "popularity": 22,
+    "followers": 646,
+    "popularity": 20,
     "genres": [
       "chill beats"
     ]
@@ -316,23 +328,23 @@
     "sname": "Blair",
     "surl": "https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm",
     "sid": "5dllmwFsq4JlN1YK0f41Sm",
-    "followers": 3139,
-    "popularity": 36,
+    "followers": 3213,
+    "popularity": 34,
     "genres": []
   },
   {
     "sname": "Brenton Mattheus",
     "surl": "https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY",
     "sid": "5L3htGbUwUCPPhVM2UtdTY",
-    "followers": 1885,
-    "popularity": 51,
+    "followers": 2003,
+    "popularity": 50,
     "genres": []
   },
   {
     "sname": "CASHFORGOLD",
     "surl": "https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX",
     "sid": "4FzthA7DjutA71z91I1DKX",
-    "followers": 9773,
+    "followers": 11062,
     "popularity": 47,
     "genres": [
       "wave"
@@ -350,27 +362,25 @@
     "sname": "Cadmium",
     "surl": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy",
     "sid": "2jrBiKykLqcIp2S7GLiahy",
-    "followers": 32383,
-    "popularity": 64,
+    "followers": 37432,
+    "popularity": 63,
     "genres": [
-      "gaming edm",
-      "pop edm",
-      "traprun"
+      "gaming edm"
     ]
   },
   {
     "sname": "Cara Leigh",
     "surl": "https://open.spotify.com/artist/1Lm4I44N1W9OAjvLh4HdFy",
     "sid": "1Lm4I44N1W9OAjvLh4HdFy",
-    "followers": 601,
-    "popularity": 9,
+    "followers": 603,
+    "popularity": 8,
     "genres": []
   },
   {
     "sname": "Carson Freeman",
     "surl": "https://open.spotify.com/artist/1W6luA68UnIagivRg8jaa3",
     "sid": "1W6luA68UnIagivRg8jaa3",
-    "followers": 13,
+    "followers": 12,
     "popularity": 19,
     "genres": []
   },
@@ -378,11 +388,19 @@
     "sname": "Cashae",
     "surl": "https://open.spotify.com/artist/27zUmETvHebBcNezxofooD",
     "sid": "27zUmETvHebBcNezxofooD",
-    "followers": 8246,
-    "popularity": 43,
+    "followers": 7954,
+    "popularity": 40,
     "genres": [
       "pop edm"
     ]
+  },
+  {
+    "sname": "Cassiøpeia",
+    "surl": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S",
+    "sid": "5CFPBKGpWF6x5Y4HfRXR4S",
+    "followers": 1122,
+    "popularity": 28,
+    "genres": []
   },
   {
     "sname": "Chloe Tang",
@@ -396,8 +414,8 @@
     "sname": "Chris Linton",
     "surl": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI",
     "sid": "5Wpn7BDRJ8oq7CcF1EufWI",
-    "followers": 11839,
-    "popularity": 68,
+    "followers": 13889,
+    "popularity": 66,
     "genres": [
       "uk dance"
     ]
@@ -406,31 +424,39 @@
     "sname": "Chris Pop",
     "surl": "https://open.spotify.com/artist/5IXas20bYpA9fkGVno6RIM",
     "sid": "5IXas20bYpA9fkGVno6RIM",
-    "followers": 165,
+    "followers": 162,
     "popularity": 0,
+    "genres": []
+  },
+  {
+    "sname": "Christian Hayward",
+    "surl": "https://open.spotify.com/artist/1dfjlbJExn9vJbWhQt6jpH",
+    "sid": "1dfjlbJExn9vJbWhQt6jpH",
+    "followers": 363,
+    "popularity": 20,
     "genres": []
   },
   {
     "sname": "Christopher Pop",
     "surl": "https://open.spotify.com/artist/48sMtjQCWsDGWmwzdYm4IG",
     "sid": "48sMtjQCWsDGWmwzdYm4IG",
-    "followers": 21,
-    "popularity": 5,
+    "followers": 28,
+    "popularity": 4,
     "genres": []
   },
   {
     "sname": "Chuck New",
     "surl": "https://open.spotify.com/artist/60owYmlEdCHkWnvx9hqp0k",
     "sid": "60owYmlEdCHkWnvx9hqp0k",
-    "followers": 1153,
-    "popularity": 29,
+    "followers": 1192,
+    "popularity": 28,
     "genres": []
   },
   {
     "sname": "Chymes",
     "surl": "https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4",
     "sid": "2aenOcvulZ1Zltq7bAdbi4",
-    "followers": 20922,
+    "followers": 22226,
     "popularity": 44,
     "genres": [
       "australian electropop"
@@ -440,7 +466,7 @@
     "sname": "Codrey",
     "surl": "https://open.spotify.com/artist/3pLbo8NN3JwfMagSeGS2uH",
     "sid": "3pLbo8NN3JwfMagSeGS2uH",
-    "followers": 54,
+    "followers": 55,
     "popularity": 0,
     "genres": []
   },
@@ -448,17 +474,15 @@
     "sname": "Conor Byrne",
     "surl": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB",
     "sid": "0hEeBhTVYUKs2B4PY2IdMB",
-    "followers": 4126,
-    "popularity": 61,
-    "genres": [
-      "indie cafe pop"
-    ]
+    "followers": 4447,
+    "popularity": 57,
+    "genres": []
   },
   {
     "sname": "Covex",
     "surl": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm",
     "sid": "2BlB5MW4WdyyglpczlQ6Mm",
-    "followers": 2439,
+    "followers": 2707,
     "popularity": 37,
     "genres": []
   },
@@ -466,19 +490,20 @@
     "sname": "Cozmoe",
     "surl": "https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy",
     "sid": "2krDA9qCEfYKl4QjZcruhy",
-    "followers": 2052,
-    "popularity": 42,
+    "followers": 2268,
+    "popularity": 44,
     "genres": []
   },
   {
     "sname": "Crystal Skies",
     "surl": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK",
     "sid": "6HraHl4uwIQFixUu3J49BK",
-    "followers": 33093,
+    "followers": 37875,
     "popularity": 53,
     "genres": [
       "future bass",
       "melodic dubstep",
+      "pop dance",
       "pop edm"
     ]
   },
@@ -486,15 +511,15 @@
     "sname": "Cxssidy",
     "surl": "https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq",
     "sid": "3Y3lbzoi0F8wQIiTnIbDXq",
-    "followers": 90,
-    "popularity": 28,
+    "followers": 109,
+    "popularity": 27,
     "genres": []
   },
   {
     "sname": "DICEBOX",
     "surl": "https://open.spotify.com/artist/1Tw3XGSdt0XodnIctrwVYL",
     "sid": "1Tw3XGSdt0XodnIctrwVYL",
-    "followers": 244,
+    "followers": 259,
     "popularity": 8,
     "genres": []
   },
@@ -502,7 +527,7 @@
     "sname": "DJ Rival",
     "surl": "https://open.spotify.com/artist/7kAefd1XNpQ2bwCeHYl4O8",
     "sid": "7kAefd1XNpQ2bwCeHYl4O8",
-    "followers": 28,
+    "followers": 32,
     "popularity": 4,
     "genres": []
   },
@@ -510,8 +535,8 @@
     "sname": "DNTST",
     "surl": "https://open.spotify.com/artist/5e4psZZxyVvf7NVLWkKqjf",
     "sid": "5e4psZZxyVvf7NVLWkKqjf",
-    "followers": 2497,
-    "popularity": 30,
+    "followers": 2522,
+    "popularity": 32,
     "genres": []
   },
   {
@@ -519,56 +544,56 @@
     "surl": "https://open.spotify.com/artist/2utXZLNrsyCx4EU8dnKjgT",
     "sid": "2utXZLNrsyCx4EU8dnKjgT",
     "followers": 0,
-    "popularity": 6,
+    "popularity": 0,
     "genres": []
   },
   {
     "sname": "Daniel Hanson",
     "surl": "https://open.spotify.com/artist/6wa7dPevlc6bLCib8us6iM",
     "sid": "6wa7dPevlc6bLCib8us6iM",
-    "followers": 91,
-    "popularity": 8,
+    "followers": 92,
+    "popularity": 7,
     "genres": []
   },
   {
     "sname": "Danyka",
     "surl": "https://open.spotify.com/artist/5BcGTHxcGIGryQTS4DqFsu",
     "sid": "5BcGTHxcGIGryQTS4DqFsu",
-    "followers": 426,
-    "popularity": 23,
-    "genres": [
-      "indie r&b"
-    ]
+    "followers": 9717,
+    "popularity": 32,
+    "genres": []
   },
   {
     "sname": "Danyka Nadeau",
-    "surl": "https://open.spotify.com/artist/2dVIbEt8BdjznykrUuSCDc",
-    "sid": "2dVIbEt8BdjznykrUuSCDc",
-    "followers": 8562,
-    "popularity": 55,
-    "genres": []
+    "surl": "https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9",
+    "sid": "1bZhxzq9mhYkPf0wdxGko9",
+    "followers": 174,
+    "popularity": 54,
+    "genres": [
+      "melodic dubstep"
+    ]
   },
   {
     "sname": "Dario Lessing",
     "surl": "https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi",
     "sid": "0EocooOvTYLsjqSSQdqiyi",
-    "followers": 1791,
-    "popularity": 49,
+    "followers": 2229,
+    "popularity": 52,
     "genres": []
   },
   {
     "sname": "David Shane",
     "surl": "https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV",
     "sid": "3Ao6gAvkCZUtj4ALBjNmXV",
-    "followers": 2253,
-    "popularity": 52,
+    "followers": 2365,
+    "popularity": 50,
     "genres": []
   },
   {
     "sname": "Dawncall",
     "surl": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq",
     "sid": "5dzYbfvhKNpTGO9eHjSnMq",
-    "followers": 1460,
+    "followers": 1600,
     "popularity": 28,
     "genres": []
   },
@@ -576,30 +601,31 @@
     "sname": "Diamic",
     "surl": "https://open.spotify.com/artist/7w0ZnYz4kQLyGIdlgoTLfO",
     "sid": "7w0ZnYz4kQLyGIdlgoTLfO",
-    "followers": 174,
-    "popularity": 11,
+    "followers": 176,
+    "popularity": 15,
     "genres": []
   },
   {
     "sname": "Direct",
     "surl": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi",
     "sid": "5eOyDcFvvdc7D7BD6gCdsi",
-    "followers": 26277,
-    "popularity": 53,
+    "followers": 27512,
+    "popularity": 52,
     "genres": [
       "chillstep",
-      "edm",
+      "complextro",
       "electro house",
       "future bass",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Domastic",
     "surl": "https://open.spotify.com/artist/6IaUmXLyN20djYxvBlTk4c",
     "sid": "6IaUmXLyN20djYxvBlTk4c",
-    "followers": 12429,
-    "popularity": 46,
+    "followers": 13488,
+    "popularity": 44,
     "genres": [
       "gaming edm"
     ]
@@ -608,8 +634,8 @@
     "sname": "Draper",
     "surl": "https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu",
     "sid": "5Z8Qlj0jWh0OOmJ55EwSnu",
-    "followers": 29079,
-    "popularity": 46,
+    "followers": 29740,
+    "popularity": 44,
     "genres": [
       "chillstep",
       "complextro",
@@ -625,8 +651,8 @@
     "sname": "Ed Prosek",
     "surl": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW",
     "sid": "6DchmKCVOKK707FCrLFFDW",
-    "followers": 40231,
-    "popularity": 47,
+    "followers": 41218,
+    "popularity": 45,
     "genres": [
       "indie anthem-folk",
       "indie folk",
@@ -637,11 +663,12 @@
     "sname": "Egzod",
     "surl": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6",
     "sid": "3exvMmrLV6o4R42YnG3Id6",
-    "followers": 32644,
-    "popularity": 57,
+    "followers": 38989,
+    "popularity": 58,
     "genres": [
       "bass trap",
       "gaming edm",
+      "melodic dubstep",
       "pop edm",
       "traprun"
     ]
@@ -650,8 +677,8 @@
     "sname": "Electro-Light",
     "surl": "https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5",
     "sid": "1rpHb27OjM9LHmYm2zjnk5",
-    "followers": 111895,
-    "popularity": 54,
+    "followers": 115186,
+    "popularity": 52,
     "genres": [
       "gaming edm",
       "speedrun"
@@ -661,26 +688,35 @@
     "sname": "Elliot Berger",
     "surl": "https://open.spotify.com/artist/3DVo02zCQ7iZKujFgRLMXL",
     "sid": "3DVo02zCQ7iZKujFgRLMXL",
-    "followers": 8517,
-    "popularity": 37,
+    "followers": 8797,
+    "popularity": 35,
     "genres": [
       "chillstep",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
+  },
+  {
+    "sname": "Emily Stiles",
+    "surl": "https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC",
+    "sid": "3PmIYYpYp4KcM7bc51JffC",
+    "followers": 308,
+    "popularity": 19,
+    "genres": []
   },
   {
     "sname": "Encanti",
     "surl": "https://open.spotify.com/artist/3ONg9ffdh01leqTxCl1VsW",
     "sid": "3ONg9ffdh01leqTxCl1VsW",
-    "followers": 30,
-    "popularity": 9,
+    "followers": 34,
+    "popularity": 7,
     "genres": []
   },
   {
     "sname": "Ennja",
     "surl": "https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27",
     "sid": "5VfsJtcTOUghb9eRPpif27",
-    "followers": 14206,
+    "followers": 15662,
     "popularity": 43,
     "genres": [
       "wave"
@@ -690,8 +726,8 @@
     "sname": "Ephixa",
     "surl": "https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc",
     "sid": "7xYcJfhrRx9Iv8smhoEibc",
-    "followers": 75754,
-    "popularity": 53,
+    "followers": 78359,
+    "popularity": 52,
     "genres": [
       "canadian electronic",
       "chillstep",
@@ -706,23 +742,23 @@
     "sname": "Eunoia",
     "surl": "https://open.spotify.com/artist/2sDYrBTHVJqI8ZTVBxmjvF",
     "sid": "2sDYrBTHVJqI8ZTVBxmjvF",
-    "followers": 567,
-    "popularity": 28,
+    "followers": 723,
+    "popularity": 31,
     "genres": []
   },
   {
     "sname": "Evoke",
     "surl": "https://open.spotify.com/artist/2NpWxrLLhCJ3kRE78C7Aja",
     "sid": "2NpWxrLLhCJ3kRE78C7Aja",
-    "followers": 1472,
-    "popularity": 35,
+    "followers": 1503,
+    "popularity": 33,
     "genres": []
   },
   {
     "sname": "FATHERDUDE",
     "surl": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z",
     "sid": "2B50tPmaH4o50MqFC7j98Z",
-    "followers": 3363,
+    "followers": 3428,
     "popularity": 36,
     "genres": [
       "nyc pop"
@@ -732,7 +768,7 @@
     "sname": "Faith in May",
     "surl": "https://open.spotify.com/artist/6R48dsw3R1wJPh67b7TiK6",
     "sid": "6R48dsw3R1wJPh67b7TiK6",
-    "followers": 59,
+    "followers": 62,
     "popularity": 1,
     "genres": []
   },
@@ -740,8 +776,8 @@
     "sname": "False Noise",
     "surl": "https://open.spotify.com/artist/21Gl6GJNj1nxYiL2eNUpfP",
     "sid": "21Gl6GJNj1nxYiL2eNUpfP",
-    "followers": 3967,
-    "popularity": 32,
+    "followers": 4618,
+    "popularity": 31,
     "genres": [
       "canadian electronic"
     ]
@@ -750,18 +786,19 @@
     "sname": "Faodail",
     "surl": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi",
     "sid": "7p53fRMaR9h4Ri162E5LGi",
-    "followers": 4979,
+    "followers": 5779,
     "popularity": 48,
     "genres": [
-      "chillstep"
+      "chillstep",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Floatinurboat",
     "surl": "https://open.spotify.com/artist/64BojgC4SoE580s9oMmHm4",
     "sid": "64BojgC4SoE580s9oMmHm4",
-    "followers": 2897,
-    "popularity": 33,
+    "followers": 3089,
+    "popularity": 31,
     "genres": [
       "gaming edm"
     ]
@@ -770,7 +807,7 @@
     "sname": "Florem",
     "surl": "https://open.spotify.com/artist/0JRisvhyFOyxooFOjG1RfS",
     "sid": "0JRisvhyFOyxooFOjG1RfS",
-    "followers": 404,
+    "followers": 398,
     "popularity": 11,
     "genres": []
   },
@@ -778,23 +815,23 @@
     "sname": "Flüidd",
     "surl": "https://open.spotify.com/artist/3R6fXfXedjAYil6PunNur6",
     "sid": "3R6fXfXedjAYil6PunNur6",
-    "followers": 69,
-    "popularity": 5,
+    "followers": 70,
+    "popularity": 6,
     "genres": []
   },
   {
     "sname": "Focus Fire",
     "surl": "https://open.spotify.com/artist/1gojNTn5vagHi6BDQYxrZI",
     "sid": "1gojNTn5vagHi6BDQYxrZI",
-    "followers": 1929,
-    "popularity": 24,
+    "followers": 1930,
+    "popularity": 22,
     "genres": []
   },
   {
     "sname": "Frequent",
     "surl": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc",
     "sid": "71Q5SkUpc26h0swrRjrGEc",
-    "followers": 7358,
+    "followers": 7887,
     "popularity": 28,
     "genres": [
       "experimental bass",
@@ -805,47 +842,65 @@
     "sname": "Funi",
     "surl": "https://open.spotify.com/artist/12yR2WjkhLt8I2DmF2nAsH",
     "sid": "12yR2WjkhLt8I2DmF2nAsH",
-    "followers": 416,
-    "popularity": 24,
+    "followers": 440,
+    "popularity": 22,
+    "genres": []
+  },
+  {
+    "sname": "Gabritiaz",
+    "surl": "https://open.spotify.com/artist/5dLK4HTDGubhbmUm2I7arn",
+    "sid": "5dLK4HTDGubhbmUm2I7arn",
+    "followers": 12,
+    "popularity": 1,
     "genres": []
   },
   {
     "sname": "Ghost Wars",
     "surl": "https://open.spotify.com/artist/0uXz3bNdtOGVafPCbFVqN3",
     "sid": "0uXz3bNdtOGVafPCbFVqN3",
-    "followers": 150,
-    "popularity": 21,
+    "followers": 151,
+    "popularity": 19,
     "genres": []
   },
   {
     "sname": "Gioto",
     "surl": "https://open.spotify.com/artist/5sUTiAe2pOOMHWPrN5uhd5",
     "sid": "5sUTiAe2pOOMHWPrN5uhd5",
-    "followers": 176,
-    "popularity": 33,
+    "followers": 187,
+    "popularity": 31,
     "genres": []
   },
   {
     "sname": "Grabbitz",
     "surl": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45",
     "sid": "4fv1OFJywZ7DHCz3mVQQ45",
-    "followers": 48927,
+    "followers": 52068,
     "popularity": 59,
     "genres": [
       "brostep",
       "chillstep",
+      "complextro",
       "edm",
       "electro house",
       "future bass",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
+  },
+  {
+    "sname": "Half Verse",
+    "surl": "https://open.spotify.com/artist/6fkHQGAEXpVoqiLoiJ7YsY",
+    "sid": "6fkHQGAEXpVoqiLoiJ7YsY",
+    "followers": 84,
+    "popularity": 6,
+    "genres": []
   },
   {
     "sname": "Harley Bird",
     "surl": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu",
     "sid": "7kXDaUD3imvM6el5qK6tAu",
-    "followers": 6301,
-    "popularity": 58,
+    "followers": 6946,
+    "popularity": 56,
     "genres": [
       "la pop"
     ]
@@ -854,8 +909,8 @@
     "sname": "Haywyre",
     "surl": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k",
     "sid": "7aUSp5cOZlwEtd5zPC795k",
-    "followers": 83844,
-    "popularity": 54,
+    "followers": 86854,
+    "popularity": 53,
     "genres": [
       "canadian electronic",
       "chillstep",
@@ -871,8 +926,8 @@
     "sname": "Heather Sommer",
     "surl": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV",
     "sid": "0EHYuPn9Xng2lZP2cfz4cV",
-    "followers": 6851,
-    "popularity": 56,
+    "followers": 8463,
+    "popularity": 54,
     "genres": [
       "alt z",
       "indie electropop",
@@ -883,16 +938,16 @@
     "sname": "Helen Tess",
     "surl": "https://open.spotify.com/artist/6CgLAgCJ6veWxsHIBFqc7P",
     "sid": "6CgLAgCJ6veWxsHIBFqc7P",
-    "followers": 1415,
-    "popularity": 44,
+    "followers": 1484,
+    "popularity": 43,
     "genres": []
   },
   {
     "sname": "Holly Drummond",
     "surl": "https://open.spotify.com/artist/24O8Ftz6AqboC3Uawbiw4r",
     "sid": "24O8Ftz6AqboC3Uawbiw4r",
-    "followers": 7588,
-    "popularity": 48,
+    "followers": 7740,
+    "popularity": 47,
     "genres": [
       "chillstep"
     ]
@@ -901,8 +956,8 @@
     "sname": "Hudson Lee",
     "surl": "https://open.spotify.com/artist/15wwDN0ZICXvhJLfom0hCt",
     "sid": "15wwDN0ZICXvhJLfom0hCt",
-    "followers": 3515,
-    "popularity": 30,
+    "followers": 3873,
+    "popularity": 31,
     "genres": [
       "future bass"
     ]
@@ -911,10 +966,9 @@
     "sname": "Hyper Potions",
     "surl": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV",
     "sid": "1KkjjsBwGqU2YjS9OIucZV",
-    "followers": 90500,
-    "popularity": 55,
+    "followers": 97133,
+    "popularity": 53,
     "genres": [
-      "gaming edm",
       "kawaii future bass",
       "otacore",
       "speedrun",
@@ -925,27 +979,26 @@
     "sname": "Iain Mannix",
     "surl": "https://open.spotify.com/artist/4xNtbOHBlL21bRuxZrNbSl",
     "sid": "4xNtbOHBlL21bRuxZrNbSl",
-    "followers": 178,
-    "popularity": 30,
+    "followers": 185,
+    "popularity": 28,
     "genres": []
   },
   {
     "sname": "Infowler",
     "surl": "https://open.spotify.com/artist/79PAbVrbCsSuRuJC80cwZG",
     "sid": "79PAbVrbCsSuRuJC80cwZG",
-    "followers": 665,
-    "popularity": 30,
+    "followers": 904,
+    "popularity": 29,
     "genres": []
   },
   {
     "sname": "Insan3lik3",
     "surl": "https://open.spotify.com/artist/0ACEzksK2oPw72QtDMCUVV",
     "sid": "0ACEzksK2oPw72QtDMCUVV",
-    "followers": 25677,
-    "popularity": 39,
+    "followers": 26245,
+    "popularity": 38,
     "genres": [
       "complextro",
-      "edm",
       "electro house",
       "gaming edm"
     ]
@@ -954,16 +1007,16 @@
     "sname": "Jack Book",
     "surl": "https://open.spotify.com/artist/1oROKnsRCNlBx9aEDW8AQU",
     "sid": "1oROKnsRCNlBx9aEDW8AQU",
-    "followers": 551,
-    "popularity": 30,
+    "followers": 576,
+    "popularity": 29,
     "genres": []
   },
   {
     "sname": "James Landino",
     "surl": "https://open.spotify.com/artist/6xMMOflXnoIA3grU3seMjh",
     "sid": "6xMMOflXnoIA3grU3seMjh",
-    "followers": 9136,
-    "popularity": 49,
+    "followers": 9938,
+    "popularity": 47,
     "genres": [
       "otacore",
       "vgm remix"
@@ -973,45 +1026,42 @@
     "sname": "Janee",
     "surl": "https://open.spotify.com/artist/4pFNPXd2phUG2uqeSlc8oC",
     "sid": "4pFNPXd2phUG2uqeSlc8oC",
-    "followers": 7663,
-    "popularity": 39,
+    "followers": 8897,
+    "popularity": 42,
     "genres": []
   },
   {
     "sname": "Jess",
     "surl": "https://open.spotify.com/artist/6LpIMbX5l9AH9JxuCNI9NW",
     "sid": "6LpIMbX5l9AH9JxuCNI9NW",
-    "followers": 23,
-    "popularity": 20,
+    "followers": 24,
+    "popularity": 17,
     "genres": []
   },
   {
     "sname": "Jim Yosef",
     "surl": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO",
     "sid": "40HDiLfKm0tXk2FxlJx6aO",
-    "followers": 100295,
-    "popularity": 61,
+    "followers": 107831,
+    "popularity": 59,
     "genres": [
       "gaming edm"
     ]
   },
   {
     "sname": "Joey Pecoraro",
-    "surl": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ",
-    "sid": "44insiIQApkRaCMIbuaISJ",
-    "followers": 105209,
-    "popularity": 62,
-    "genres": [
-      "chillhop",
-      "lo-fi beats"
-    ]
+    "surl": "https://open.spotify.com/artist/7xCobP8qDlYdUyYow7Ji38",
+    "sid": "7xCobP8qDlYdUyYow7Ji38",
+    "followers": 5,
+    "popularity": 21,
+    "genres": []
   },
   {
     "sname": "Johnning",
     "surl": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN",
     "sid": "1yPdXrLhRc50YbwiwCr1uN",
-    "followers": 6158,
-    "popularity": 63,
+    "followers": 7185,
+    "popularity": 62,
     "genres": [
       "pop edm"
     ]
@@ -1020,7 +1070,7 @@
     "sname": "Katdrop",
     "surl": "https://open.spotify.com/artist/6Lumiuk67kiAjDa9Al13Fy",
     "sid": "6Lumiuk67kiAjDa9Al13Fy",
-    "followers": 2832,
+    "followers": 2852,
     "popularity": 20,
     "genres": []
   },
@@ -1028,16 +1078,16 @@
     "sname": "Kathryn MacLean",
     "surl": "https://open.spotify.com/artist/505sZMgWSsILxTxokyLKIA",
     "sid": "505sZMgWSsILxTxokyLKIA",
-    "followers": 77,
-    "popularity": 24,
+    "followers": 83,
+    "popularity": 22,
     "genres": []
   },
   {
     "sname": "Ke'nekt",
     "surl": "https://open.spotify.com/artist/1rJDZNTBZj5QSMX7lynoPo",
     "sid": "1rJDZNTBZj5QSMX7lynoPo",
-    "followers": 152,
-    "popularity": 31,
+    "followers": 173,
+    "popularity": 30,
     "genres": []
   },
   {
@@ -1052,7 +1102,7 @@
     "sname": "Kooma",
     "surl": "https://open.spotify.com/artist/2OQpMQGdpN1kb9vf7Sn9Em",
     "sid": "2OQpMQGdpN1kb9vf7Sn9Em",
-    "followers": 2018,
+    "followers": 2261,
     "popularity": 41,
     "genres": [
       "finnish indie"
@@ -1062,8 +1112,8 @@
     "sname": "Koven",
     "surl": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa",
     "sid": "3UCbp6D1lvILlxRJT9LnFa",
-    "followers": 72707,
-    "popularity": 62,
+    "followers": 79451,
+    "popularity": 61,
     "genres": [
       "chillstep",
       "edm",
@@ -1076,16 +1126,16 @@
     "sname": "Kunis",
     "surl": "https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX",
     "sid": "6S3DzPANfTWOacHiKfOsEX",
-    "followers": 1381,
-    "popularity": 40,
+    "followers": 1571,
+    "popularity": 39,
     "genres": []
   },
   {
     "sname": "Last Heroes",
     "surl": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97",
     "sid": "3HHfEn7yPOy3IiHS6CHG97",
-    "followers": 13922,
-    "popularity": 54,
+    "followers": 15529,
+    "popularity": 51,
     "genres": [
       "future bass",
       "melodic dubstep",
@@ -1096,7 +1146,7 @@
     "sname": "Laura Brehm",
     "surl": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt",
     "sid": "7ddnIV2r4SLjuwyGlgLIWt",
-    "followers": 66286,
+    "followers": 71653,
     "popularity": 65,
     "genres": [
       "chillstep",
@@ -1107,24 +1157,24 @@
     "sname": "Lhasa Petik",
     "surl": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja",
     "sid": "4F6d5pVnChKy8CcMBaZ1Ja",
-    "followers": 715,
-    "popularity": 32,
+    "followers": 898,
+    "popularity": 41,
     "genres": []
   },
   {
     "sname": "Liam Thomas",
-    "surl": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN",
-    "sid": "0CDvUUuendAExit0nkRVpN",
-    "followers": 2679,
-    "popularity": 42,
+    "surl": "https://open.spotify.com/artist/39poOAdpbvIMV0xfxi8h4m",
+    "sid": "39poOAdpbvIMV0xfxi8h4m",
+    "followers": 2,
+    "popularity": 15,
     "genres": []
   },
   {
     "sname": "LoneMoon",
     "surl": "https://open.spotify.com/artist/0KFSt4Hxl95xrVMAc6wzGP",
     "sid": "0KFSt4Hxl95xrVMAc6wzGP",
-    "followers": 7174,
-    "popularity": 44,
+    "followers": 7426,
+    "popularity": 43,
     "genres": [
       "experimental hip hop"
     ]
@@ -1133,8 +1183,8 @@
     "sname": "Lucy Daydream",
     "surl": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg",
     "sid": "0RQEMnWcCrVW4vkPFbAVsg",
-    "followers": 5567,
-    "popularity": 39,
+    "followers": 6329,
+    "popularity": 44,
     "genres": [
       "denver indie",
       "indie electropop"
@@ -1144,38 +1194,37 @@
     "sname": "Luke Black",
     "surl": "https://open.spotify.com/artist/3sPiEqLcANa5kAp5RnEHNq",
     "sid": "3sPiEqLcANa5kAp5RnEHNq",
-    "followers": 464,
-    "popularity": 12,
+    "followers": 506,
+    "popularity": 11,
     "genres": []
   },
   {
     "sname": "Lynx",
     "surl": "https://open.spotify.com/artist/6zE53JXDHIWLVgXQoIoY1k",
     "sid": "6zE53JXDHIWLVgXQoIoY1k",
-    "followers": 56,
-    "popularity": 29,
+    "followers": 62,
+    "popularity": 27,
     "genres": []
   },
   {
     "sname": "MOONZz",
     "surl": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab",
     "sid": "7cTaYwNT1P49mASgKULKab",
-    "followers": 29852,
-    "popularity": 50,
+    "followers": 31540,
+    "popularity": 49,
     "genres": [
       "electropop",
       "indie electropop",
       "indie poptimism",
-      "pop edm",
-      "vapor soul"
+      "pop edm"
     ]
   },
   {
     "sname": "MYLK",
     "surl": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX",
     "sid": "4o66UJPzUonUgENhbqpHRX",
-    "followers": 10734,
-    "popularity": 50,
+    "followers": 11735,
+    "popularity": 49,
     "genres": [
       "kawaii future bass"
     ]
@@ -1184,113 +1233,120 @@
     "sname": "Mads",
     "surl": "https://open.spotify.com/artist/0RkzqJAl5fXCvhcXDm0Sdf",
     "sid": "0RkzqJAl5fXCvhcXDm0Sdf",
-    "followers": 211,
-    "popularity": 25,
+    "followers": 218,
+    "popularity": 23,
     "genres": []
   },
   {
     "sname": "Magomar",
     "surl": "https://open.spotify.com/artist/7M9Q32QNz5VWqvUx3InyX4",
     "sid": "7M9Q32QNz5VWqvUx3InyX4",
-    "followers": 5112,
-    "popularity": 22,
+    "followers": 5114,
+    "popularity": 20,
     "genres": []
   },
   {
     "sname": "Max Fry",
     "surl": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy",
     "sid": "3P01oaWiEJ2uI7ZwUuaMNy",
-    "followers": 2632,
-    "popularity": 39,
-    "genres": [
-      "future bass"
-    ]
+    "followers": 2876,
+    "popularity": 38,
+    "genres": []
   },
   {
     "sname": "Mega Flare",
     "surl": "https://open.spotify.com/artist/2IIfnJSprmAN47vePMSBoX",
     "sid": "2IIfnJSprmAN47vePMSBoX",
-    "followers": 391,
-    "popularity": 29,
+    "followers": 452,
+    "popularity": 27,
     "genres": []
   },
   {
     "sname": "Micah Martin",
     "surl": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3",
     "sid": "4i8u1FZVapjZBcCyyrAnU3",
-    "followers": 5946,
-    "popularity": 55,
+    "followers": 6644,
+    "popularity": 57,
     "genres": []
   },
   {
     "sname": "Michael FK",
     "surl": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3",
     "sid": "4Ppqyb0QJec1QNtK0VuuA3",
-    "followers": 8490,
-    "popularity": 47,
+    "followers": 9763,
+    "popularity": 46,
     "genres": [
-      "chillstep"
+      "chillstep",
+      "melodic dubstep"
     ]
+  },
+  {
+    "sname": "Miss Lina",
+    "surl": "https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv",
+    "sid": "1YWIbcvuqzWzPyxyrVTMJv",
+    "followers": 1719,
+    "popularity": 39,
+    "genres": []
   },
   {
     "sname": "Mitte",
     "surl": "https://open.spotify.com/artist/6fCyMC1lggj922bchujEF8",
     "sid": "6fCyMC1lggj922bchujEF8",
-    "followers": 427,
-    "popularity": 28,
+    "followers": 501,
+    "popularity": 26,
     "genres": []
   },
   {
     "sname": "Miyoki",
     "surl": "https://open.spotify.com/artist/1jSyzKmwy7ZqeZvZklLSas",
     "sid": "1jSyzKmwy7ZqeZvZklLSas",
-    "followers": 2666,
-    "popularity": 43,
+    "followers": 2838,
+    "popularity": 42,
     "genres": []
   },
   {
     "sname": "Miza",
     "surl": "https://open.spotify.com/artist/3lKmmMsRcJyWWZ7yUbpH5S",
     "sid": "3lKmmMsRcJyWWZ7yUbpH5S",
-    "followers": 6490,
-    "popularity": 43,
+    "followers": 6657,
+    "popularity": 42,
     "genres": []
   },
   {
     "sname": "Mojoman",
     "surl": "https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad",
     "sid": "2t7SxDJO8xs6RskGSLYwad",
-    "followers": 397,
-    "popularity": 15,
+    "followers": 411,
+    "popularity": 13,
     "genres": []
   },
   {
     "sname": "Mr. Bill",
     "surl": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB",
     "sid": "5JJclMMPi2YgEKjJY9AjbB",
-    "followers": 31402,
-    "popularity": 45,
+    "followers": 33223,
+    "popularity": 42,
     "genres": [
-      "deep psytrance",
-      "vapor twitch"
+      "deep psytrance"
     ]
   },
   {
     "sname": "My City Glory",
     "surl": "https://open.spotify.com/artist/6c8Tj7dw38XeyB2JvTxAi9",
     "sid": "6c8Tj7dw38XeyB2JvTxAi9",
-    "followers": 55,
-    "popularity": 23,
+    "followers": 68,
+    "popularity": 21,
     "genres": []
   },
   {
     "sname": "N3WPORT",
     "surl": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8",
     "sid": "1iyaH6NJWncvktAfUcNht8",
-    "followers": 6339,
-    "popularity": 59,
+    "followers": 8546,
+    "popularity": 57,
     "genres": [
       "gaming edm",
+      "melodic dubstep",
       "pop edm",
       "traprun"
     ]
@@ -1299,31 +1355,31 @@
     "sname": "NKLS",
     "surl": "https://open.spotify.com/artist/6CPmOHOVwU8yvOjqF5j5OJ",
     "sid": "6CPmOHOVwU8yvOjqF5j5OJ",
-    "followers": 553,
-    "popularity": 25,
+    "followers": 570,
+    "popularity": 22,
     "genres": []
   },
   {
     "sname": "Narukami",
     "surl": "https://open.spotify.com/artist/6t32sVvP2YF5xKdPo4o3KQ",
     "sid": "6t32sVvP2YF5xKdPo4o3KQ",
-    "followers": 42,
-    "popularity": 3,
+    "followers": 45,
+    "popularity": 2,
     "genres": []
   },
   {
     "sname": "Nasty Purple",
     "surl": "https://open.spotify.com/artist/06OQBq0iM25WXDJJ8R0POt",
     "sid": "06OQBq0iM25WXDJJ8R0POt",
-    "followers": 219,
-    "popularity": 32,
+    "followers": 250,
+    "popularity": 30,
     "genres": []
   },
   {
     "sname": "Nitro Fun",
     "surl": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC",
     "sid": "4XU5f8nGiPMr6eetud6epC",
-    "followers": 84483,
+    "followers": 89611,
     "popularity": 51,
     "genres": [
       "complextro",
@@ -1337,19 +1393,21 @@
     "sname": "Nomyn",
     "surl": "https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN",
     "sid": "5VbsCwCoxtsC4nRCyLJveN",
-    "followers": 10264,
+    "followers": 12256,
     "popularity": 43,
     "genres": [
-      "chillstep"
+      "chillstep",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "None Like Joshua",
     "surl": "https://open.spotify.com/artist/13rNJ8sWbjGYIUjqtHZvL2",
     "sid": "13rNJ8sWbjGYIUjqtHZvL2",
-    "followers": 45126,
-    "popularity": 59,
+    "followers": 51793,
+    "popularity": 57,
     "genres": [
+      "anime rap",
       "otacore"
     ]
   },
@@ -1357,15 +1415,15 @@
     "sname": "Nori",
     "surl": "https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo",
     "sid": "1ZVchQJoK0CP4PR7bgr2Lo",
-    "followers": 1186,
-    "popularity": 55,
+    "followers": 1360,
+    "popularity": 52,
     "genres": []
   },
   {
     "sname": "Of The Trees",
     "surl": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c",
     "sid": "5V7NIXgCnX2KuQ01Bxg20c",
-    "followers": 28768,
+    "followers": 32287,
     "popularity": 47,
     "genres": [
       "experimental bass",
@@ -1376,16 +1434,24 @@
     "sname": "Oglak",
     "surl": "https://open.spotify.com/artist/0nk91ItqQc3mhOUIUsjPJ6",
     "sid": "0nk91ItqQc3mhOUIUsjPJ6",
-    "followers": 103,
+    "followers": 112,
     "popularity": 9,
+    "genres": []
+  },
+  {
+    "sname": "One of Six",
+    "surl": "https://open.spotify.com/artist/705LwIwhGPqFjs8rOU7pSW",
+    "sid": "705LwIwhGPqFjs8rOU7pSW",
+    "followers": 9361,
+    "popularity": 40,
     "genres": []
   },
   {
     "sname": "PLTX",
     "surl": "https://open.spotify.com/artist/7gXdoWiRHMCe9rqABlL8g7",
     "sid": "7gXdoWiRHMCe9rqABlL8g7",
-    "followers": 242,
-    "popularity": 16,
+    "followers": 276,
+    "popularity": 15,
     "genres": [
       "german dnb"
     ]
@@ -1394,8 +1460,8 @@
     "sname": "Panda Eyes",
     "surl": "https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz",
     "sid": "3K0GDmmiRwn1Zc7RZzTeAz",
-    "followers": 180486,
-    "popularity": 56,
+    "followers": 187295,
+    "popularity": 55,
     "genres": [
       "edm",
       "gaming edm",
@@ -1406,7 +1472,7 @@
     "sname": "Pastelle",
     "surl": "https://open.spotify.com/artist/4n44JgB3xSOFlt21cCIc0T",
     "sid": "4n44JgB3xSOFlt21cCIc0T",
-    "followers": 5762,
+    "followers": 6043,
     "popularity": 38,
     "genres": []
   },
@@ -1414,16 +1480,16 @@
     "sname": "Peter",
     "surl": "https://open.spotify.com/artist/05sbPDUGLYBLeNDZfEE9RX",
     "sid": "05sbPDUGLYBLeNDZfEE9RX",
-    "followers": 49,
-    "popularity": 30,
+    "followers": 48,
+    "popularity": 31,
     "genres": []
   },
   {
     "sname": "Phaeleh",
     "surl": "https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP",
     "sid": "5NkUpXWkeXspvu7iQQOHhP",
-    "followers": 84938,
-    "popularity": 50,
+    "followers": 87013,
+    "popularity": 49,
     "genres": [
       "bristol electronic",
       "chillstep",
@@ -1435,8 +1501,8 @@
     "sname": "Phaera",
     "surl": "https://open.spotify.com/artist/2AGumVLrXJSKuVQuAKEzYz",
     "sid": "2AGumVLrXJSKuVQuAKEzYz",
-    "followers": 2298,
-    "popularity": 38,
+    "followers": 2489,
+    "popularity": 37,
     "genres": [
       "speedrun"
     ]
@@ -1445,23 +1511,23 @@
     "sname": "ProtosoniX",
     "surl": "https://open.spotify.com/artist/2mu6hYHOa4pCOTi8ik1twA",
     "sid": "2mu6hYHOa4pCOTi8ik1twA",
-    "followers": 271,
-    "popularity": 14,
+    "followers": 290,
+    "popularity": 13,
     "genres": []
   },
   {
     "sname": "Q'Aila",
     "surl": "https://open.spotify.com/artist/5NbLht1MNVM19gY3OIBDwK",
     "sid": "5NbLht1MNVM19gY3OIBDwK",
-    "followers": 3221,
-    "popularity": 40,
+    "followers": 3252,
+    "popularity": 38,
     "genres": []
   },
   {
     "sname": "QORA",
     "surl": "https://open.spotify.com/artist/7HOg9AxcS0p6zq8RMtJCWi",
     "sid": "7HOg9AxcS0p6zq8RMtJCWi",
-    "followers": 412,
+    "followers": 474,
     "popularity": 30,
     "genres": []
   },
@@ -1469,7 +1535,7 @@
     "sname": "Qebrus",
     "surl": "https://open.spotify.com/artist/0KWZAx4FmRjsKUBsFJy6Am",
     "sid": "0KWZAx4FmRjsKUBsFJy6Am",
-    "followers": 35,
+    "followers": 34,
     "popularity": 1,
     "genres": []
   },
@@ -1477,7 +1543,7 @@
     "sname": "Rameses B",
     "surl": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO",
     "sid": "06EfEcjc0vdvI6VNL0soIO",
-    "followers": 84057,
+    "followers": 86960,
     "popularity": 54,
     "genres": [
       "chillstep",
@@ -1492,15 +1558,15 @@
     "sname": "Ratfoot",
     "surl": "https://open.spotify.com/artist/3CM3FwgjG2MQZHFeb60BKm",
     "sid": "3CM3FwgjG2MQZHFeb60BKm",
-    "followers": 921,
-    "popularity": 38,
+    "followers": 942,
+    "popularity": 32,
     "genres": []
   },
   {
     "sname": "Rebecca Need-Menear",
     "surl": "https://open.spotify.com/artist/01Sil2eFZz7xuaIQdNWF3h",
     "sid": "01Sil2eFZz7xuaIQdNWF3h",
-    "followers": 78,
+    "followers": 79,
     "popularity": 9,
     "genres": []
   },
@@ -1508,7 +1574,7 @@
     "sname": "Reflekshun",
     "surl": "https://open.spotify.com/artist/0W1hbEE1JoCxMUxgdiqh70",
     "sid": "0W1hbEE1JoCxMUxgdiqh70",
-    "followers": 820,
+    "followers": 816,
     "popularity": 26,
     "genres": []
   },
@@ -1516,97 +1582,117 @@
     "sname": "Reign",
     "surl": "https://open.spotify.com/artist/2j24RHXzy8R26mtVQK0n8n",
     "sid": "2j24RHXzy8R26mtVQK0n8n",
-    "followers": 653,
-    "popularity": 20,
+    "followers": 778,
+    "popularity": 19,
     "genres": []
   },
   {
     "sname": "Rezonate",
     "surl": "https://open.spotify.com/artist/7z2SH3eQbWeFdzQZcHQQ3O",
     "sid": "7z2SH3eQbWeFdzQZcHQQ3O",
-    "followers": 17650,
-    "popularity": 36,
+    "followers": 18046,
+    "popularity": 34,
     "genres": [
       "chillstep",
+      "complextro",
       "electro house",
-      "future bass",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Richie Nuzz",
     "surl": "https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2",
     "sid": "5oRdpu7dD17viMa3uhXMk2",
-    "followers": 20081,
-    "popularity": 39,
+    "followers": 20085,
+    "popularity": 36,
     "genres": []
   },
   {
     "sname": "Rival",
     "surl": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz",
     "sid": "4u1nYxjl132D6rcMeYQ6Zz",
-    "followers": 36238,
+    "followers": 41581,
     "popularity": 65,
     "genres": [
-      "gaming edm",
-      "pop edm",
-      "traprun"
+      "gaming edm"
     ]
   },
   {
     "sname": "Rob Gasser",
     "surl": "https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc",
     "sid": "1WlxlG9IzXsq9MkneOPkxc",
-    "followers": 21819,
-    "popularity": 48,
+    "followers": 22807,
+    "popularity": 46,
     "genres": [
       "complextro",
-      "gaming edm"
+      "electro house",
+      "gaming edm",
+      "melodic dubstep"
     ]
+  },
+  {
+    "sname": "Robi",
+    "surl": "https://open.spotify.com/artist/5op9piKWIV2vWbxSkvz1hf",
+    "sid": "5op9piKWIV2vWbxSkvz1hf",
+    "followers": 97,
+    "popularity": 6,
+    "genres": []
   },
   {
     "sname": "Rocco",
     "surl": "https://open.spotify.com/artist/2OpwhLu4duvhyuYgQNZiDr",
     "sid": "2OpwhLu4duvhyuYgQNZiDr",
-    "followers": 14,
-    "popularity": 1,
+    "followers": 17,
+    "popularity": 0,
+    "genres": []
+  },
+  {
+    "sname": "Rocket Start",
+    "surl": "https://open.spotify.com/artist/63HmQo6u4XFHnqkeYd8GhE",
+    "sid": "63HmQo6u4XFHnqkeYd8GhE",
+    "followers": 145,
+    "popularity": 4,
     "genres": []
   },
   {
     "sname": "Roxanne Emery",
     "surl": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM",
     "sid": "70bIIPbBQeaFzRrIfahMEM",
-    "followers": 8115,
-    "popularity": 53,
+    "followers": 8427,
+    "popularity": 51,
     "genres": []
   },
   {
     "sname": "Ryan Oakes",
-    "surl": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7",
-    "sid": "4l43uAIHyF5VzgonMKVkg7",
-    "followers": 78850,
-    "popularity": 57,
-    "genres": [
-      "emo rap",
-      "indie pop rap",
-      "pop rap",
-      "sad rap"
-    ]
+    "surl": "https://open.spotify.com/artist/6m3xAsbMIeMXJboWTZcLfT",
+    "sid": "6m3xAsbMIeMXJboWTZcLfT",
+    "followers": 0,
+    "popularity": 6,
+    "genres": []
+  },
+  {
+    "sname": "SEVEN",
+    "surl": "https://open.spotify.com/artist/42Q4RWlhX3muu7u3V6HM73",
+    "sid": "42Q4RWlhX3muu7u3V6HM73",
+    "followers": 7,
+    "popularity": 26,
+    "genres": []
   },
   {
     "sname": "SOUNDR",
     "surl": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X",
     "sid": "0YnlfML5Nu6DrpCshXMH0X",
-    "followers": 2021,
-    "popularity": 48,
+    "followers": 2165,
+    "popularity": 45,
     "genres": []
   },
   {
     "sname": "STARLYTE",
     "surl": "https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv",
     "sid": "32UL2dRIFoeUL3ViLatNGv",
-    "followers": 4111,
-    "popularity": 41,
+    "followers": 4339,
+    "popularity": 36,
     "genres": [
       "gaming edm"
     ]
@@ -1615,60 +1701,62 @@
     "sname": "STRIX",
     "surl": "https://open.spotify.com/artist/1gex5Q4EtI0rByvzZHmUrO",
     "sid": "1gex5Q4EtI0rByvzZHmUrO",
-    "followers": 78,
-    "popularity": 31,
+    "followers": 100,
+    "popularity": 38,
     "genres": []
   },
   {
     "sname": "Sara Skinner",
     "surl": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y",
     "sid": "1HQ26IHQ1Nu0Tq7EE7DV6y",
-    "followers": 5169,
-    "popularity": 57,
+    "followers": 5694,
+    "popularity": 55,
     "genres": []
   },
   {
     "sname": "Sekai",
     "surl": "https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT",
     "sid": "4T5B6T18yziN16acvy3XtT",
-    "followers": 6244,
-    "popularity": 42,
+    "followers": 6652,
+    "popularity": 39,
     "genres": [
       "future bass",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Serion",
     "surl": "https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs",
     "sid": "1daCx1huhWZa5aLc1KK9hs",
-    "followers": 2018,
-    "popularity": 37,
+    "followers": 2272,
+    "popularity": 36,
     "genres": []
   },
   {
     "sname": "Sidewalks and Skeletons",
     "surl": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1",
     "sid": "48nHO1cuTbpx4ELhChsxX1",
-    "followers": 67269,
-    "popularity": 54,
+    "followers": 79344,
+    "popularity": 55,
     "genres": [
+      "dark clubbing",
       "wave"
     ]
   },
   {
     "sname": "Sina Py",
-    "surl": "https://open.spotify.com/artist/1WIU1UiYWhnCAuaAlXw6OI",
-    "sid": "1WIU1UiYWhnCAuaAlXw6OI",
-    "followers": 8,
-    "popularity": 7,
+    "surl": "https://open.spotify.com/artist/5V0PTRom0xpINJoWYv6OEq",
+    "sid": "5V0PTRom0xpINJoWYv6OEq",
+    "followers": 0,
+    "popularity": 6,
     "genres": []
   },
   {
     "sname": "Skye Rocket",
     "surl": "https://open.spotify.com/artist/7zlaMf32qgze6Q8vzBxxYg",
     "sid": "7zlaMf32qgze6Q8vzBxxYg",
-    "followers": 1394,
+    "followers": 1513,
     "popularity": 28,
     "genres": []
   },
@@ -1676,24 +1764,24 @@
     "sname": "Slyleaf",
     "surl": "https://open.spotify.com/artist/3urhrgG6tVFVPIc8Dgf3Y2",
     "sid": "3urhrgG6tVFVPIc8Dgf3Y2",
-    "followers": 7044,
-    "popularity": 48,
+    "followers": 7700,
+    "popularity": 46,
     "genres": []
   },
   {
     "sname": "Soundmouse",
     "surl": "https://open.spotify.com/artist/6fy0RqV5OGAoGKVtbEvW6T",
     "sid": "6fy0RqV5OGAoGKVtbEvW6T",
-    "followers": 1125,
-    "popularity": 42,
+    "followers": 1156,
+    "popularity": 41,
     "genres": []
   },
   {
     "sname": "Spag Heddy",
     "surl": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi",
     "sid": "043Bey7ngSGRFpJftAlKpi",
-    "followers": 134835,
-    "popularity": 51,
+    "followers": 137663,
+    "popularity": 50,
     "genres": [
       "brostep",
       "dubstep",
@@ -1707,28 +1795,29 @@
     "sname": "Stasia Estep",
     "surl": "https://open.spotify.com/artist/5tQxiFKmOCwvqUlIbAiFkQ",
     "sid": "5tQxiFKmOCwvqUlIbAiFkQ",
-    "followers": 243,
-    "popularity": 36,
+    "followers": 269,
+    "popularity": 35,
     "genres": []
   },
   {
     "sname": "StayLoose",
     "surl": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83",
     "sid": "6kyUfziWP8ydAsKzyXsC83",
-    "followers": 19470,
+    "followers": 20542,
     "popularity": 55,
     "genres": [
       "electropop",
       "future bass",
-      "pop edm"
+      "pop edm",
+      "vapor twitch"
     ]
   },
   {
     "sname": "SubDocta",
     "surl": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk",
     "sid": "2fRdiG5FNFFs4OjG7p6yxk",
-    "followers": 19732,
-    "popularity": 36,
+    "followers": 21373,
+    "popularity": 38,
     "genres": [
       "dubstep"
     ]
@@ -1737,10 +1826,11 @@
     "sname": "Sublab",
     "surl": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx",
     "sid": "3tjRdPCZTpme7vslZJYtJx",
-    "followers": 20969,
-    "popularity": 52,
+    "followers": 23190,
+    "popularity": 51,
     "genres": [
       "chillstep",
+      "melodic dubstep",
       "vapor twitch",
       "wave"
     ]
@@ -1749,7 +1839,7 @@
     "sname": "Synthion",
     "surl": "https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO",
     "sid": "4YqfXU53VVYBunSuvrDZYO",
-    "followers": 21874,
+    "followers": 25571,
     "popularity": 45,
     "genres": [
       "future bass",
@@ -1760,44 +1850,51 @@
     "sname": "Taheran",
     "surl": "https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6",
     "sid": "5Nj8N6JiueW73lkLkv6TL6",
-    "followers": 170,
-    "popularity": 27,
+    "followers": 175,
+    "popularity": 24,
     "genres": []
   },
   {
     "sname": "Tasha Baxter",
     "surl": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og",
     "sid": "7sLv4bED064cYa2XhF85og",
-    "followers": 3365,
-    "popularity": 46,
+    "followers": 3520,
+    "popularity": 45,
     "genres": []
   },
   {
     "sname": "Teminite",
     "surl": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF",
     "sid": "5EEuae5uigQnwgYCl0s8EF",
-    "followers": 98284,
-    "popularity": 56,
+    "followers": 104144,
+    "popularity": 55,
     "genres": [
       "edm",
-      "gaming edm",
       "speedrun"
     ]
+  },
+  {
+    "sname": "Teneki",
+    "surl": "https://open.spotify.com/artist/2HKXQdbsT8X5uFLsAVtMG4",
+    "sid": "2HKXQdbsT8X5uFLsAVtMG4",
+    "followers": 1286,
+    "popularity": 31,
+    "genres": []
   },
   {
     "sname": "The Arcturians",
     "surl": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K",
     "sid": "39Igqv4O9OUd0De2mCdB9K",
-    "followers": 4634,
-    "popularity": 45,
+    "followers": 6008,
+    "popularity": 44,
     "genres": []
   },
   {
     "sname": "TheFatRat",
     "surl": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4",
     "sid": "3OKg7YbOIatODzkRIbLJR4",
-    "followers": 1060389,
-    "popularity": 74,
+    "followers": 1184879,
+    "popularity": 73,
     "genres": [
       "speedrun"
     ]
@@ -1806,10 +1903,11 @@
     "sname": "Tim Schaufert",
     "surl": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC",
     "sid": "3PThWtcE0CEi5IUmfgTvrC",
-    "followers": 13185,
+    "followers": 14661,
     "popularity": 51,
     "genres": [
       "chillstep",
+      "melodic dubstep",
       "wave"
     ]
   },
@@ -1817,7 +1915,7 @@
     "sname": "Timmy Commerford",
     "surl": "https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO",
     "sid": "0Y0r9IKRjfC62MAYMDEMZO",
-    "followers": 1654,
+    "followers": 1867,
     "popularity": 50,
     "genres": []
   },
@@ -1825,33 +1923,49 @@
     "sname": "Titus",
     "surl": "https://open.spotify.com/artist/7jTmW2u6Zi0JqIqf6aR003",
     "sid": "7jTmW2u6Zi0JqIqf6aR003",
-    "followers": 22,
-    "popularity": 6,
+    "followers": 23,
+    "popularity": 4,
     "genres": []
   },
   {
     "sname": "To NY",
     "surl": "https://open.spotify.com/artist/5dr5iUAF3ziGPZMACEezCF",
     "sid": "5dr5iUAF3ziGPZMACEezCF",
-    "followers": 76,
-    "popularity": 29,
+    "followers": 87,
+    "popularity": 31,
     "genres": []
   },
   {
     "sname": "Tobu",
     "surl": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8",
     "sid": "1feoGrmmD8QmNqtK2Gdwy8",
-    "followers": 324284,
-    "popularity": 61,
+    "followers": 336071,
+    "popularity": 60,
     "genres": [
       "gaming edm"
+    ]
+  },
+  {
+    "sname": "Tristam",
+    "surl": "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g",
+    "sid": "28Ky95tmlHktB96DBUoB0g",
+    "followers": 204926,
+    "popularity": 59,
+    "genres": [
+      "brostep",
+      "chillstep",
+      "dancefloor dnb",
+      "edm",
+      "electro house",
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Trivecta",
     "surl": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye",
     "sid": "4AT7XlLBevgZIiKvZQ83ye",
-    "followers": 42184,
+    "followers": 45452,
     "popularity": 56,
     "genres": [
       "chillstep",
@@ -1861,6 +1975,7 @@
       "future bass",
       "gaming edm",
       "melodic dubstep",
+      "pop dance",
       "pop edm"
     ]
   },
@@ -1868,8 +1983,8 @@
     "sname": "Tryhardninja",
     "surl": "https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG",
     "sid": "0B7Y5KDNScTBzeN7DY74YG",
-    "followers": 375217,
-    "popularity": 66,
+    "followers": 412644,
+    "popularity": 64,
     "genres": [
       "antiviral pop",
       "minecraft",
@@ -1880,11 +1995,12 @@
     "sname": "VGR",
     "surl": "https://open.spotify.com/artist/3pCoHlohSNQdXBNDxuWd12",
     "sid": "3pCoHlohSNQdXBNDxuWd12",
-    "followers": 59589,
-    "popularity": 60,
+    "followers": 65778,
+    "popularity": 59,
     "genres": [
       "meme rap",
       "otacore",
+      "social media pop",
       "vgm remix"
     ]
   },
@@ -1892,8 +2008,8 @@
     "sname": "Varien",
     "surl": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7",
     "sid": "2g1JSu9UfRcQQYb3b03Km7",
-    "followers": 66399,
-    "popularity": 55,
+    "followers": 70741,
+    "popularity": 57,
     "genres": [
       "chillstep",
       "complextro",
@@ -1902,15 +2018,16 @@
       "edm",
       "electro house",
       "filthstep",
-      "gaming edm"
+      "gaming edm",
+      "melodic dubstep"
     ]
   },
   {
     "sname": "Veela",
     "surl": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR",
     "sid": "3CiuuHKIxxJPoNRvF94GtR",
-    "followers": 39731,
-    "popularity": 59,
+    "followers": 41848,
+    "popularity": 57,
     "genres": [
       "chillstep"
     ]
@@ -1919,7 +2036,7 @@
     "sname": "Voicians",
     "surl": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW",
     "sid": "5DNApAt05XowaylsOJo1eW",
-    "followers": 20194,
+    "followers": 21292,
     "popularity": 49,
     "genres": [
       "cyberpunk",
@@ -1931,15 +2048,18 @@
     "sname": "Vorsa",
     "surl": "https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g",
     "sid": "1gh8GYfxnY6D9nXPQ1Pb6g",
-    "followers": 9715,
-    "popularity": 46,
-    "genres": []
+    "followers": 11939,
+    "popularity": 49,
+    "genres": [
+      "emo rap",
+      "sad rap"
+    ]
   },
   {
     "sname": "Vorso",
     "surl": "https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH",
     "sid": "5Og6MsfuDPnFYd1asgHXdH",
-    "followers": 9146,
+    "followers": 9866,
     "popularity": 37,
     "genres": [
       "deep dnb"
@@ -1949,16 +2069,16 @@
     "sname": "Vump",
     "surl": "https://open.spotify.com/artist/505F4uyTDhqSWmiUQx6CDb",
     "sid": "505F4uyTDhqSWmiUQx6CDb",
-    "followers": 46,
-    "popularity": 9,
+    "followers": 55,
+    "popularity": 2,
     "genres": []
   },
   {
     "sname": "Warriyo",
     "surl": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr",
     "sid": "153gpNcKRhv5Cn30q375Mr",
-    "followers": 14810,
-    "popularity": 55,
+    "followers": 16720,
+    "popularity": 54,
     "genres": [
       "belgian edm"
     ]
@@ -1967,40 +2087,56 @@
     "sname": "Wishlyst",
     "surl": "https://open.spotify.com/artist/31Cf1kpnuoNrrMvX87ptet",
     "sid": "31Cf1kpnuoNrrMvX87ptet",
-    "followers": 572,
-    "popularity": 35,
+    "followers": 645,
+    "popularity": 34,
     "genres": []
   },
   {
     "sname": "XENEN",
     "surl": "https://open.spotify.com/artist/1ekS6TtwLY6K4iKUbxwzWS",
     "sid": "1ekS6TtwLY6K4iKUbxwzWS",
-    "followers": 615,
-    "popularity": 37,
+    "followers": 676,
+    "popularity": 36,
+    "genres": []
+  },
+  {
+    "sname": "Xaf",
+    "surl": "https://open.spotify.com/artist/4ruOhcEkKd3NLhJVojhKlk",
+    "sid": "4ruOhcEkKd3NLhJVojhKlk",
+    "followers": 184,
+    "popularity": 8,
+    "genres": []
+  },
+  {
+    "sname": "Xercle",
+    "surl": "https://open.spotify.com/artist/0ji8hytEF0uL1CI0j4CLLN",
+    "sid": "0ji8hytEF0uL1CI0j4CLLN",
+    "followers": 20,
+    "popularity": 5,
     "genres": []
   },
   {
     "sname": "Zoe Moon",
     "surl": "https://open.spotify.com/artist/2WmLMQQCzPESCJbOA0Lnd9",
     "sid": "2WmLMQQCzPESCJbOA0Lnd9",
-    "followers": 583,
-    "popularity": 31,
+    "followers": 617,
+    "popularity": 29,
     "genres": []
   },
   {
     "sname": "cluda",
     "surl": "https://open.spotify.com/artist/2DFhBkg0nVtUcB4ARPpuXh",
     "sid": "2DFhBkg0nVtUcB4ARPpuXh",
-    "followers": 443,
-    "popularity": 32,
+    "followers": 469,
+    "popularity": 27,
     "genres": []
   },
   {
     "sname": "kLL sMTH",
     "surl": "https://open.spotify.com/artist/5vKYp6eOOHPKfb8UX5nUXK",
     "sid": "5vKYp6eOOHPKfb8UX5nUXK",
-    "followers": 9603,
-    "popularity": 32,
+    "followers": 10528,
+    "popularity": 30,
     "genres": [
       "glitch hop",
       "psybass"
@@ -2010,16 +2146,16 @@
     "sname": "narou",
     "surl": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH",
     "sid": "4WZfEIgHLAMmAxATgVjspH",
-    "followers": 1890,
-    "popularity": 41,
+    "followers": 2095,
+    "popularity": 42,
     "genres": []
   },
   {
     "sname": "premo",
     "surl": "https://open.spotify.com/artist/0pVmLWBINSKW4yZ97yqhnH",
     "sid": "0pVmLWBINSKW4yZ97yqhnH",
-    "followers": 26,
-    "popularity": 8,
+    "followers": 27,
+    "popularity": 7,
     "genres": []
   }
 ]
